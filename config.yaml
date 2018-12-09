@@ -1,0 +1,41 @@
+
+baseURL: "https://pdpostojna.netlify.com"
+languageCode: "en-us"
+title: "Planinsko društvo Postojna"
+theme: "beautifulhugo"
+metaDataFormat: "yaml"
+
+params:
+    homeTitle: "PD Postojna"
+    subtitle: "Novice in informacije"
+    logo: "img/pd_postojna_logo.png"
+
+menu:
+  main:
+    - name: "Dodatne Informacije"
+      url: "dodatne_informacije"
+      weight: 10
+
+    - name: "Plan izletov"
+      identifier: "izleti"
+      url: "#"
+      weight: 100
+
+    - name: "2019"
+      parent: "izleti"
+      url: "razpored/2019/"
+      weight: 198
+
+    - name: "2018"
+      parent: "izleti"
+      url: "razpored/2018/"
+      weight: 199
+
+    - name: "Pomagajo nam"
+      identifier: "sponzorji"
+      url: "pomagajo_nam"
+      weight: 200
+
+    - name: "Arhiv"
+      url: "tags"
+      weight: 300
