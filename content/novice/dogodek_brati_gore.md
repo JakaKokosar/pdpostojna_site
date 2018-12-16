@@ -4,7 +4,7 @@ type: "post"
 date: 2018-12-09
 author: PD Postojna
 slug: brati_gore_2018
-tags: [Novice, Dogodek, '2018']
+tags: [Novice, Dogodek, 'december 2018', '2018']
 ---
 
 “Brati gore” se je začel kot praznovanje Mednarodnega dneva gora 2015 s ciljem spodbuditi dogodke, posvečene goram in literaturi na različnih koncih Alp 11. Decembra – na dan, ki so ga Združeni narodi razglasili za vsakoletni mednarodni dan gora. <!--more--> Festival Brati gore spodbuja praznovanje kulture raznolikosti in hkrati podobnosti v Alpah in krati povezuje gore in kulturo.

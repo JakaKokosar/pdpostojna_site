@@ -4,7 +4,7 @@ slug: Donacija dela dohodnine 2018
 type: "post"
 date: 2018-12-16
 author: PD Postojna
-tags: [Obvestilo, 'Koča', 'Nanos', '2018']
+tags: [Obvestilo, 'december 2018', '2018']
 ---
 
 Spoštovani  planinci in drugi simpatizerji planin in narave,
