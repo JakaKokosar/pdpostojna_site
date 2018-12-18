@@ -3,7 +3,7 @@ title: Brati gore
 type: "post"
 date: 2018-12-09
 author: PD Postojna
-slug: brati_gore_2018
+slug: brati_gore
 tags: [Novice, Dogodek, 'december 2018', '2018']
 ---
 

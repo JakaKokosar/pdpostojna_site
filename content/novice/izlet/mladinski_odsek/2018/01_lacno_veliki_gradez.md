@@ -3,7 +3,7 @@ title: LAČNO (451 m) IN VELIKI GRADEŽ (507 m)
 type: "post"
 date: 2018-12-17
 author: PD Postojna
-slug: lacno_veliki_gradez_2018
+slug: lacno_veliki_gradez
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'december 2018', '2018']
 ---
 

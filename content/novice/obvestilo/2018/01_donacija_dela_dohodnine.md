@@ -1,6 +1,6 @@
 ---
 title: Donacija dela dohodnine za obnovo Vojkove koče na Nanosu
-slug: Donacija dela dohodnine 2018
+slug: donacija_dela_dohodnine
 type: "post"
 date: 2018-12-16
 author: PD Postojna

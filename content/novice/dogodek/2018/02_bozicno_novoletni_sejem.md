@@ -3,7 +3,7 @@ title: VABILO NA BOŽIČNO NOVOLETNI SEJEM 21.12.2018 V POSTOJNI
 type: "post"
 date: 2018-12-17
 author: PD Postojna
-slug: bozicno_novoletni_sejem_2018
+slug: bozicno_novoletni_sejem
 tags: [Novice, Dogodek, 'december 2018', '2018']
 ---
 
