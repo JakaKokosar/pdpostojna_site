@@ -9,6 +9,7 @@ params:
     homeTitle: "PD Postojna"
     subtitle: "Novice in informacije"
     logo: "img/pd_postojna_logo.png"
+    favicon: "img/pd_postojna_logo.png"
 
 menu:
   main:
