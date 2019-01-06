@@ -17,19 +17,19 @@ menu:
       url: "dodatne_informacije"
       weight: 10
 
-    - name: "Plan izletov"
+    - name: "Načrt izletov"
       identifier: "izleti"
       url: "#"
       weight: 100
 
     - name: "2019"
       parent: "izleti"
-      url: "razpored/2019/"
+      url: "nacrt_izletov/2019"
       weight: 198
 
     - name: "2018"
       parent: "izleti"
-      url: "razpored/2018/"
+      url: "nacrt_izletov/2018"
       weight: 199
 
     - name: "Pomagajo nam"

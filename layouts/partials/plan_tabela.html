@@ -1,0 +1,40 @@
+{{ $odsek := .odsek }}
+{{ $leto := .page.Params.leto }}
+
+<table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">Datum</th>
+            <th scope="col">Cilj</th>
+            <th scope="col">Vodja</th>
+            <th scope="col">Opis</th>
+            <th scope="col">Razpis</th>
+          </tr>
+        </thead>
+        <tbody>
+            {{ range $.page.Site.Data.plan_izletov }} 
+                {{ if and (eq .leto $leto) (eq .odsek $odsek)}}
+                    {{ range .seznam }}
+                        <tr>
+                            <td>{{ .Datum }}</td>
+                            <td>{{ .Cilj }}</td>
+                            <td>{{ .Vodja }}</td>
+                            <td>{{ .Opis }}</td>
+                            <td>
+                            {{ if (not (isset . "Razpis")) | or (eq .Razpis "") }}
+                            <a class="btn" href="#">
+                                <button class="btn btn-primary get-started-btn btn-lg" disabled>Več informacij</button>
+                            </a>
+                            {{ else }}
+                            <a class="btn" href="{{ .Razpis }}">
+                                <button class="btn btn-primary btn-lg get-started-btn">Več informacij</button>
+                            </a>
+                            {{ end }}
+                            </td>
+                            
+                        </tr>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </tbody>
+      </table>

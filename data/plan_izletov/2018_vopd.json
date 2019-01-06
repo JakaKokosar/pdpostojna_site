@@ -1,0 +1,102 @@
+{
+    "leto": "2018",
+    "odsek": "vopd",
+    "seznam": [
+        {
+            "Datum": "Januar",
+            "Cilj": "Nočni pohod na Snežnik",
+            "Vodja": "Marija Kuhar",
+            "Opis": "Zimska - lahka"
+        },
+        {
+            "Datum": " ",
+            "Cilj": "Zimovanje",
+            "Vodja": " ",
+            "Opis": "3 dni"
+        },
+        {
+            "Datum": "Februar",
+            "Cilj": "Debela peč",
+            "Vodja": "Marija Kuhar",
+            "Opis": "Zimska - lahka"
+        },
+        {
+            "Datum": "Marec",
+            "Cilj": "Bele stene / Kršičevec / ogled slik in zabava",
+            "Vodja": "Aleksander Furlan",
+            "Opis": "Zimska - lahka"
+        },
+        {
+            "Datum": "April",
+            "Cilj": "Kum (z vlakom do izhodišča)",
+            "Vodja": "Aleksander Furlan",
+            "Opis": "Lahka"
+        },
+        {
+            "Datum": " ",
+            "Cilj": "Markacistična akcija",
+            "Vodja": " ",
+            "Opis": " "
+        },
+        {
+            "Datum": "Maj",
+            "Cilj": "Paklenica (prvomajski prazniki)",
+            "Vodja": "Marija Kuhar",
+            "Opis": "Lahke in zahtevne (3 dni)"
+        },
+        {
+            "Datum": " ",
+            "Cilj": "Pohod od Erazma do Ravbarja",
+            "Vodja": "Društvi Škratovka Haasberg in Kašča",
+            "Opis": "Zahtevna"
+        },
+        {
+            "Datum": "Junij",
+            "Cilj": "Kamniške Alpe - Dan slovenskih planinskih doživetij",
+            "Vodja": "Neva Šemrov",
+            "Opis": " "
+        },
+        {
+            "Datum": " ",
+            "Cilj": "Razor",
+            "Vodja": "Aljaž Šemrov",
+            "Opis": "Zelo zahtevna (enodnevna)"
+        },
+        {
+            "Datum": "Avgust",
+            "Cilj": "Ankogel (skupaj s PD Sežana)",
+            "Vodja": "Marija Kuhar in Nika Čuk",
+            "Opis": "Lahka in zahtevna (2 dni)"
+        },
+        {
+            "Datum": "September",
+            "Cilj": "Peca in kralj Matjaž",
+            "Vodja": "Nika Čuk in Valentina Posega",
+            "Opis": "2 dni"
+        },
+        {
+            "Datum": "Oktober",
+            "Cilj": "Lisca (z vlakom do izhodišča)",
+            "Vodja": "Valentina Posega in Aleksander Furlan",
+            "Opis": "Lahka"
+        },
+        {
+            "Datum": " ",
+            "Cilj": "Markacistična akcija (8.10.201)",
+            "Vodja": " ",
+            "Opis": " "
+        },
+        {
+            "Datum": "November",
+            "Cilj": "Čez Osojnico do Vremščice",
+            "Vodja": "Izabel Vadnal",
+            "Opis": "Lahka"
+        },
+        {
+            "Datum": "December",
+            "Cilj": "Porezen",
+            "Vodja": "Marija Kuhar",
+            "Opis": "Lahka"
+        }
+    ]
+}
