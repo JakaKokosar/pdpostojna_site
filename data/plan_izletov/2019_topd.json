@@ -1,5 +1,97 @@
 {
     "leto": "2019",
     "odsek": "topd",
-    "seznam": []
+    "seznam": [
+        {
+            "Datum": "3.2.2019",
+            "Cilj": "V Dolino na kafe\r\n",
+            "Vodja": "Mitja Kristan\r\n",
+            "Opis": "lahka\r\n",
+            "Razpis": ""
+        },
+        {
+            "Datum": "3.3.2019",
+            "Cilj": "Pustno kolesarjenje po obali",
+            "Vodja": "Tomaž Penko in\r\nOPD Koper",
+            "Opis": "lahka",
+            "Razpis": ""
+        },
+        {
+            "Datum": "6.4.2019",
+            "Cilj": "Rudolfovanje",
+            "Vodja": "Nataša Kocjančič in\r\nPD Novo mesto",
+            "Opis": "lahka",
+            "Razpis": ""
+        },
+        {
+            "Datum": "13.4.2019",
+            "Cilj": "Po Krasu ali Po jezerih",
+            "Vodja": "Matej Škrlj ali\r\nMitja Kristan",
+            "Opis": "srednje zahtevna",
+            "Razpis": ""
+        },
+        {
+            "Datum": "11.5.2019",
+            "Cilj": "Na Mašun na pašto",
+            "Vodja": "Tomaž Penko",
+            "Opis": "zahtevna\r\n",
+            "Razpis": ""
+        },
+        {
+            "Datum": "1.6.2019",
+            "Cilj": "STKP v enem dnevu",
+            "Vodja": "Tomaž Penko in \r\nPZS KTK",
+            "Opis": "zahtevna",
+            "Razpis": ""
+        },
+        {
+            "Datum": "8.6.2019",
+            "Cilj": "Sv. Trojica",
+            "Vodja": "Matej Škrlj",
+            "Opis": "zelo zahtevna\r\n",
+            "Razpis": ""
+        },
+        {
+            "Datum": "15.6.2019",
+            "Cilj": "Dan slovenskih planinskih doživetij - Lisca",
+            "Vodja": "Tomaž Penko in \r\nPD Lisca Sevnica",
+            "Opis": "več tur",
+            "Razpis": ""
+        },
+        {
+            "Datum": "13.7.2019",
+            "Cilj": "3. tradicionalna tura:\r\n\"Čez Javornik do Cerkniškega jezera\"",
+            "Vodja": "Tomaž Penko",
+            "Opis": "sredje zahtevna",
+            "Razpis": ""
+        },
+        {
+            "Datum": "25.-28.7.2019",
+            "Cilj": "Tabor PD Postojna - Kamniška Bistrica",
+            "Vodja": "Tomaž Penko\r\nMatej Škrlj\r\nNataša Kocjančič",
+            "Opis": "več tur, 3 dni",
+            "Razpis": ""
+        },
+        {
+            "Datum": "14.9.2019",
+            "Cilj": "Nanos",
+            "Vodja": "Nataša Kocjančič",
+            "Opis": "zahtevna\r\n",
+            "Razpis": ""
+        },
+        {
+            "Datum": "12.10.2019",
+            "Cilj": "Po jezerih ali Po Krasu",
+            "Vodja": "Mitja Kristan ali \r\nMatej Škrlj",
+            "Opis": "srednje zahtevna",
+            "Razpis": ""
+        },
+        {
+            "Datum": "10.11.2019",
+            "Cilj": "Na morje k sosedom",
+            "Vodja": "Nataša Kocjančič",
+            "Opis": "srednje zahtevna\r\n",
+            "Razpis": ""
+        }
+    ]
 }
