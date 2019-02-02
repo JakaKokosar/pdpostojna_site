@@ -1,5 +1,6 @@
 
 baseURL: "https://pdpostojna.si"
+googleAnalytics: "UA-132431198-1"
 languageCode: "en-us"
 title: "Planinsko društvo Postojna"
 theme: "beautifulhugo"
