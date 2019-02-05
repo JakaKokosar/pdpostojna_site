@@ -7,6 +7,7 @@ slug: izlet_na_otok_krk_2019
 tags: ['Novice', 'Izlet', 'Sosedje vabijo', 'februar 2019', '2019']
 ---
 
+**Datum**: nedelja, 24.2.2019
 
 Program:
 
