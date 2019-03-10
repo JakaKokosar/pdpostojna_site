@@ -25,7 +25,7 @@ Cena zimovanja je 70€ (vsak naslednji prijavljen iz iste družine 60€) in vk
 Plačilo je mogoče z nakazilom na TRR društva (transakcijski račun: IBAN SI56 6100 0001 7886 565). Pri namenu plačila navedite ime in priimek otroka ter namen plačila.
 
 
-<a class="btn" href="/documents/MOPD_zimovanje_prijavnica_2019.pdf">
+<a class="btn" href="/documents/prijavnice/2019/MOPD_zimovanje_prijavnica_2019.pdf">
     <button class="btn btn-primary btn-lg get-started-btn">Prijavnica in seznam opreme!</button>
 </a>
 
