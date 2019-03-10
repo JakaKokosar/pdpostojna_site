@@ -7,6 +7,7 @@ type: "informacije"
 - **Naslov**: Javorniška pot 24, p.p. 11, 6230 Postojna
 - **Matična številka**: 5065488000
 - **Davčna številka**: 47947110
+- **Društvena telefonska številka**: 041-688-696
 
 
 ## Transakcijski račun 
@@ -33,7 +34,7 @@ type: "informacije"
 
 ## Društvena pisarna
 
-Je odprta vsak 1. petek v mesecu med 18:00-19:00 uro in po dogovoru na društven telefon.
+Je odprta vsak 1. petek v mesecu med 18:00-19:00 uro in po dogovoru na društven telefon (041-688-696).
 Od januarja do februarja je pisarna odprta **vsak petek!**
 
 <div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Kolodvorska%20cesta%204%20Pivka+(PD%20Postojna)&amp;ie=UTF8&amp;t=&amp;z=18&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/"></a></iframe></div><br />
