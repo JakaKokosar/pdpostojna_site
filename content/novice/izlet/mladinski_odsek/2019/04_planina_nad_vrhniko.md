@@ -26,7 +26,7 @@ Izlet je primeren za otroke od 1. razreda naprej, saj ni zahteven v nobenem pogl
 
 **ČAS IN TEŽAVNOST**: Od parkirišča do koče bomo hodili približno 1.30 h, za spust bomo porabili ravno toliko. Pot ni težavna in je primerna za otroke od 1. razreda naprej.
 
-**CENA**:	12€; če boste želeli, si boste v koči na vrhu lahko kupili topel čaj in kaj za pod zob. Hrano in pijačo imejte tudi s seboj.
+**CENA**:	15€; če boste želeli, si boste v koči na vrhu lahko kupili topel čaj in kaj za pod zob. Hrano in pijačo imejte tudi s seboj.
 
 **VODIVA**: Martin Mahnič (041-532-207) in Marija Kuhar (041-663-117)
 
