@@ -3,7 +3,7 @@ title: Zimovanje na Sviščakih (ponovni razpis)
 type: "post"
 date: 2019-03-07
 author: Nika Čuk
-slug: zimovanje_2019
+slug: zimovanje
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'marec 2019', '2019', 'Zimovanje']
 ---
 

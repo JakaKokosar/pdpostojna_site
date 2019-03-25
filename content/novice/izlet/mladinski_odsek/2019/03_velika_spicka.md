@@ -3,7 +3,7 @@ title: VELIKA ŠPIČKA (955 m)
 type: "post"
 date: 2019-02-19
 author: Tanja Žele 
-slug: velika_spicka_2019
+slug: velika_spicka
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'februar 2019', '2019']
 ---
 

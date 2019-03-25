@@ -3,7 +3,7 @@ title: Planina nad Vrhniko (733m)
 type: "post"
 date: 2019-03-23
 author: Martin Mahnič
-slug: planina_nad_vrhniko_2019
+slug: planina_nad_vrhniko
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'marec 2019', '2019']
 ---
 
