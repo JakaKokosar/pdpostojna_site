@@ -3,7 +3,7 @@ title: Iz Tršća na SOKOLSKE STIJENE (961 m) in RUDNIK (1054 m)
 type: "post"
 date: 2019-02-05
 author: Valentina Posega
-slug: sokolske_stijene_in_rudnik_2019
+slug: sokolske_stijene_in_rudnik
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'februar 2019', '2019']
 ---
 

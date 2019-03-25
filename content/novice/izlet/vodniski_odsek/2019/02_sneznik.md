@@ -3,7 +3,7 @@ title: NOČNI POHOD ZA ODRASLE NA SNEŽNIK (1769m)
 type: "post"
 date: 2019-01-13
 author: Marija Kuhar
-slug: nocni_pohod_na_sneznik_2019
+slug: nocni_pohod_na_sneznik
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'januar 2019', '2019']
 ---
 

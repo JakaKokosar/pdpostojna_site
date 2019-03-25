@@ -3,7 +3,7 @@ title: Izlet na Ostrič (1056 m), Medvežico in Glavičorko
 type: "post"
 date: 2019-01-22
 author: Marija Kuhar
-slug: ostric_medvezica_glavicorka_2019
+slug: ostric_medvezica_glavicorka
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'januar 2019', '2019']
 ---
 
