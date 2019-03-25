@@ -3,12 +3,12 @@ title: RATITOVEC (Altemaver 1679 m)
 type: "post"
 date: 2019-03-25
 author: Marija Kuhar
-slug: ratitovec_2019
+slug: ratitovec
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'marec 2019', '2019']
 ---
 
 Gremo po enega najlepših razgledov v slovenskih gorah, saj je Ratitovec toliko odmaknjen od osrednjega dela Julijcev, da so le ti videti kot na dlani. Lepo pa so vidne tudi Karavanke in Kamniško Savinjske Alpe ter Škofjeloško in Cerkljansko hribovje.  
-<!-- more -->
+<!--more-->
 
 Ratitovec je dolgo travnato sleme, ki poteka v smeri vzhod - zahod in le narahlo valovi. Najvišji vrh Ratitovca je Altemaver (1679 m). Na Ratitovcu, tik pod Gladkim vrhom, je Krekova koča.
 
