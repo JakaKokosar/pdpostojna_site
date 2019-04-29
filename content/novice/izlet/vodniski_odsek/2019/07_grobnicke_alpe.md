@@ -1,7 +1,7 @@
 ---
 title: Grobničke Alpe (sprememba)
 type: "post"
-date: 2019-04-23
+date: 2019-04-29
 author: Neva Šemrov
 slug: grobnicke_alpe
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'april 2019', '2019']
@@ -9,7 +9,7 @@ tags: ['Novice', 'Izlet', 'Vodniški odsek', 'april 2019', '2019']
 
 Izlet bo enodnevan, gremo v nedeljo 5.5. odhod iz Postojne ob 6.00 uri, iz Pivke 6.20. Povzpeli se bomo na najvišji vrh Obruč 1376m. Cena izleta 25 €, možnost toplega obroka v koči (40 kun).
 
-**Prijave do 2.5. do 18 ure oziroma do zasedbe mest v avtobusu.**
+**Prijave, na tel. št. 041 597 151 (Neva Šemrov), do 2.5. do 18 ure oziroma do zasedbe mest v avtobusu.**
 
 <!--more-->
 
