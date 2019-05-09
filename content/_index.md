@@ -1,6 +1,8 @@
 ### Oglasna deska:
 
-Vojkova koča na Nanosu je trenutno **zaprta!** Hvala za razumevanje.
+Vojkova koča bo do konca meseca maja odprta ob sobotah in nedeljah, 
+z junijem pa bo začela obratovati po ustaljenem odpiralnem času. 
+Vabljeni!
 <!-- **Denarna pomoč pri obnovi Vojkove koče na Nanosu:**
 <a class="btn" href="/documents/prosnja-za-obnovo-2018-Vojkova-koca.doc">
     <button class="btn btn-primary btn-lg get-started-btn">Prošnja za denarno pomoč</button>
