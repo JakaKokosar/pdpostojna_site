@@ -3,7 +3,7 @@ title: Predstavitev knjige Bogdana Biščaka
 type: "post"
 date: 2019-06-19
 author: PD Postojna
-slug: predstavitev_knjige_bogdana_biscaka
+slug: predstavitev_knjige_bogdana_biscaka_2
 tags: [Novice, Dogodek, 'junij 2019', '2019']
 ---
 
