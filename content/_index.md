@@ -1,5 +1,5 @@
 ### Oglasna deska:
-- Vojkova koča bo do konca meseca maja odprta ob sobotah in nedeljah, **z junijem pa bo začela obratovati po ustaljenem odpiralnem času**. Vabljeni!
+- Vojkova koča na Nanosu je od 1. junija 2019 odprta vsak dan **razen srede**. Vabljeni!
 
 - <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform">
     <button class="btn btn-primary btn-lg get-started-btn">Taborjenje 2019 - Prijavnica</button>
