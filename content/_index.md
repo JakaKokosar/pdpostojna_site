@@ -1,9 +1,11 @@
 ### Oglasna deska:
 - Vojkova koča na Nanosu je od 1. junija 2019 odprta vsak dan **razen srede**. Vabljeni!
 
-- <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform">
+- <a href="/documents/objave_dodatno_gradivo/Prevoz_clanov_Planinske_zveze_Slovenije.pdf">30% popust pri prevozih z vlakom za člane PZS!</a>
+
+<!-- - <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform">
     <button class="btn btn-primary btn-lg get-started-btn">Taborjenje 2019 - Prijavnica</button>
-  </a>
+  </a> -->
 
 <!-- **Denarna pomoč pri obnovi Vojkove koče na Nanosu:**
 <a class="btn" href="/documents/prosnja-za-obnovo-2018-Vojkova-koca.doc">

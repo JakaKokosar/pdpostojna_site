@@ -1,5 +1,5 @@
 ---
-title: Po poteh nekdanjih kontrabantarjev
+title: Po poteh nekdanjih kontrabantarjev (prestavljen)
 type: "post"
 date: 2019-07-01
 author: PD Postojna
@@ -7,7 +7,7 @@ slug: po_poteh_nekdanjih_kontrabantarjev
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'Turnokolesarski odsek', 'julij 2019', '2019']
 ---
 
-Pohod in kolesarjenje v nedeljo, 7. julija 2019 v sodelovanju s Turističnim društvom Postojna v sklopu Furmanskega praznika.
+Pohod in kolesarjenje v <strike>nedeljo, 7. julija 2019</strike> <strong>14.7.2019</strong> v sodelovanju s Turističnim društvom Postojna v sklopu Furmanskega praznika.
 
 Start pohoda in kolesarjenja bo ob 8.00 uri s prireditvenega prostora Furmanskega praznika (zborno mesto je pod mostom, pred tablami Park Postojnska jama).
 <!--more--> 
