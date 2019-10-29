@@ -1,5 +1,5 @@
 ### Oglasna deska:
-- Vojkova koča na Nanosu je od 1. junija 2019 odprta vsak dan **razen srede**. Vabljeni!
+- Vojkova koča na Nanosu bo zaprta 2. in 3. vikend v novembru.
 
 - <a href="/documents/objave_dodatno_gradivo/Prevoz_clanov_Planinske_zveze_Slovenije.pdf">30% popust pri prevozih z vlakom za člane PZS!</a>
 

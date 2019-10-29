@@ -9,6 +9,11 @@ type: "informacije"
 - **Davčna številka**: 47947110
 - **Društvena telefonska številka**: 041-688-696
 
+## Vojkova koča na Nanosu
+
+- **Kontakt:** 05 983 56 85
+- **Oskrbnik:** 041 595 879
+
 
 ## Transakcijski račun 
 (DELAVSKA HRANILNICA d.d., Ljublana)
