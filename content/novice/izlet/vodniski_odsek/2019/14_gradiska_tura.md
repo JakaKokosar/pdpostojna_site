@@ -1,14 +1,16 @@
 ---
-title: GRADIŠKA TURA – Otmarjeva pot
+title: GRADIŠKA TURA – Otmarjeva pot (ODPOVEDAN)
 type: "post"
-date: 2019-11-13
+date: 2019-11-15
 author: Mitja Smrekar
 slug: gradiska_tura
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'november 2019', '2019']
 ---
 
-Gradiška Tura in zavarovana plezalna pot – Furlanova pot je večini planincev dobro znana. Od maja 2019 pa se je možno na Gradiško Turo povzpeti tudi po povsem novi Otmarjevi poti. Pot je kategorizirana kot zelo zahtevna planinska pot, za vzpon po njej pa je obvezna uporaba samovarovalnega kompleta in čelade. V začetnem najtežjem delu poti, ki doseže težavnostno oceno C (ocena F je najtežja) je v previsu potrebno tudi nekaj moči v rokah. Plezanje po zavarovani poti večkrat prekinejo lažji odseki, vendar se pot kmalu vrne nazaj med jeklenice in strmo skalovje. Zavarovana pot je dolga 450 metrov ter ima 240 metrov višinske razlike.
+POPRAVEK (15.11.2019): Izlet je zaenkrat **ODPOVEDAN** zaradi slabega vremena.
+
 <!--more-->
+Gradiška Tura in zavarovana plezalna pot – Furlanova pot je večini planincev dobro znana. Od maja 2019 pa se je možno na Gradiško Turo povzpeti tudi po povsem novi Otmarjevi poti. Pot je kategorizirana kot zelo zahtevna planinska pot, za vzpon po njej pa je obvezna uporaba samovarovalnega kompleta in čelade. V začetnem najtežjem delu poti, ki doseže težavnostno oceno C (ocena F je najtežja) je v previsu potrebno tudi nekaj moči v rokah. Plezanje po zavarovani poti večkrat prekinejo lažji odseki, vendar se pot kmalu vrne nazaj med jeklenice in strmo skalovje. Zavarovana pot je dolga 450 metrov ter ima 240 metrov višinske razlike.
 
 **KDAJ:** v soboto 16.11.2019
 
