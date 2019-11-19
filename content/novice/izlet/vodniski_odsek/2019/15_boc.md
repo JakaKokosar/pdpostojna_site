@@ -14,7 +14,7 @@ Leta 1962 so na Boču postavili 20 metrov visok jeklen komunikacijski razgledni 
 
 **Datum:** sobota, 23.11. 2019
 
-**Način prevoza: ** 2 kombija (ali avtobus)
+**Način prevoza:** 2 kombija (ali avtobus)
 
 **Odhod:**
 
