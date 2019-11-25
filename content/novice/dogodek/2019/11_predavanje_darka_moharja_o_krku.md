@@ -1,7 +1,7 @@
 ---
 title: Predavanje Darka Moharja o Krku
 type: "post"
-date: 2019-11-19
+date: 2019-11-25
 author: PD Postojna
 slug: predavanje_darka_moharja_o_krku
 tags: [Novice, Dogodek, 'november 2019', '2019']
