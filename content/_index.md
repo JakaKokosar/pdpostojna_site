@@ -1,7 +1,13 @@
-### Oglasna deska:
-- Vojkova koča na Nanosu bo zaprta 2. in 3. vikend v novembru.
 
+
+### Oglasna deska:
 - <a href="/documents/objave_dodatno_gradivo/Prevoz_clanov_Planinske_zveze_Slovenije.pdf">30% popust pri prevozih z vlakom za člane PZS!</a>
+
+
+- **Odpiralni čas (Vojkova koča):**
+    - Petek 12.00 - 20.00
+    - Sobota 7.00 - 20.00
+    - Nedelja, praznik 7.00 - 16.00
 
 <!-- - <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform">
     <button class="btn btn-primary btn-lg get-started-btn">Taborjenje 2019 - Prijavnica</button>
