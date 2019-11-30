@@ -7,8 +7,6 @@ slug: kolesarjenje_med_pivskimi_jezeri
 tags: ['Novice', 'Izlet', 'Turnokolesarski odsek', 'november 2019', '2019']
 ---
 
-<!--more-->
-
 **ZBIRNO MESTO**
 V nedeljo, 1.12.2019. Rakitnik pri Postojni ob 9:15
 
@@ -17,7 +15,7 @@ Odhod ob 9:30, predviden prihod nazaj ob 13:30
 
 **OPREMA**
 Brezhibno gorsko kolo s profiliranimi gumami, vsaj sprednje vzmetenje, čelada, rokavice, rezervna zračnica, zadostna količina hrane in pijače, topla oblačila.
-
+<!--more-->
 **OPIS POTI**
 Pivško kotlino krasi 17 večjih in manjših presihajočih jezer, ki napolnijo svoja luknjasta dnesa le ob obilnem dežju. Tega je bilo v preteklih dneh dovolj, da se je suha kraška pokrajina prelevila v deželo sedemnajsterih jezer :) Na poti do Kalškega jezera in nazaj, bomo videli deset jezer. Dobimo se v Rakitniku pri cerkvi. Od tam naprej pa bomo po kolovozih, makadamu in razmočenih poteh, skozi majhne pivške vasice sledili jezerom od prvega Petelinjskega do zadnjega Klenskega jezera. Če bomo hitri in čas ne bo ovira, se bomo na poti nazaj ustavili še na reki Pivki, kjer so včasih pela mlinska kolesa ''Žejskih malnov''. 
 
