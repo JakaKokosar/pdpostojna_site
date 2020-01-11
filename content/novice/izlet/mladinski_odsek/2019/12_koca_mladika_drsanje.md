@@ -4,7 +4,7 @@ type: "post"
 date: 2019-12-10
 author: Tine Ščuka
 slug: koca_mladika_in_drsanje
-tags: ['Novice', 'Izlet', 'Mladinski odsek', 'decemver 2019', '2019']
+tags: ['Novice', 'Izlet', 'Mladinski odsek', 'december 2019', '2019']
 ---
 
 Za konec leta smo vam pripravili prav poseben izlet – odpravili se bomo na planinski pohod na kočo Mladiko in Jelovico, nato pa še na drsanje pred hotelom Kras. 
