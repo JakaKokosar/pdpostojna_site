@@ -26,10 +26,10 @@ Tokrat nas bo pot zanesla v Čičarijo, kjer neporaščen 1056m visok vrh Ostri�
 
 **HRANA in PIJAČA:** Po lastni izbiri iz nahrbtnika.
 
-**VODJA:** Marija Kuhar (041 663 117)
+**VODJA:** Neva Šemrov (041-597-151)
 
 **CENA IZLETA:** 10 - 15 EUR, odvisno od števila udeležencev in načina prevoza.
 
-**PRIJAVE:** najkasneje do četrtka, 16.01.2020, do 10. ure na elektronski naslov: marija.kuhar.ku@gmail.com ali na telefon 041 663 117 (Marija Kuhar).
+**PRIJAVE:** najkasneje do četrtka, 16.01.2020, do 10. ure na elektronski naslov: neva.semrov@pdpostojna.si ali na telefon 041-597-151 (Neva Šemrov).
 
 V primeru slabega vremena izlet odpade, o čemer vas bomo obvestili po telefonu in na spletni strani najkasneje v petek, 17.01.2020.
