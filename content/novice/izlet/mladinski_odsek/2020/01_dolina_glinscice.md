@@ -1,12 +1,15 @@
 ---
-title: Dolina Glinščice
+title: Dolina Glinščice - ODPOVEDAN
 type: "post"
-date: 2020-01-11
+date: 2020-01-17
 author: Valentina Posega
 slug: dolina_glinscice
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'januar 2020', '2020']
 ---
 
+**Izlet je zaradi slabega vremena odpovedan.**
+
+<strike>
 Glinščica (v italijanščini Rosandra) je ena od tržaških rek, ki izvira nad vasjo
 Klanec (pri Kozini, v Sloveniji) na nadmorski višini 412 m in teče po kraških tleh
 proti morju. Skozi stoletja je nastala čudovita kanjonska dolina med hribom
@@ -16,7 +19,7 @@ Iz vasi Boljunec (italijanska občina Dolina) bomo nadaljevali peš do razgledne
 pri Comiciju, šli mimo cerkvice na Pečeh, v vasici Botač pa se bomo obrnili in po
 drugi poti vrnili v Boljunec.
 
-**KDAJ:** V soboto, 18. 1. 2020
+ **KDAJ:** V soboto, 18. 1. 2020 
 
 **ODHOD:**
 
@@ -46,3 +49,4 @@ prijave, ki jih sprejmemo le v primeru, da je še dovolj prostora, pokličite Va
 
 V primeru slabega vremena izlet odpade. O tem vas bomo obvestili na spletni strani
 društva ali preko mentoric najkasneje v petek, 17. 1. 2020!
+</strike>
