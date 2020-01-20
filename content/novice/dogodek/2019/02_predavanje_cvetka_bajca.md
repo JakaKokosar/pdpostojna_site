@@ -4,7 +4,7 @@ type: "post"
 date: 2019-01-17
 author: Marija Kuhar
 slug: predavanje_cvetka_bajca
-tags: [Novice, Dogodek, 'januar 2019', '2019']
+tags: [Novice, Dogodek, 'Predavanje', 'januar 2019', '2019']
 ---
 
 Planinsko društvo Postojna vabi v sredo 23. januarja 2019 ob 18.00 uri v sejno sobo (mansarda)  Knjižnice Bena Zupančiča v Postojni na predavanje Cvetka Bajca o Finski.
