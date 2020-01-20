@@ -13,6 +13,7 @@
                     <li class="active"><a data-toggle="tab" href="#mopd">Mladinski odsek</a></li>
                     <li><a data-toggle="tab" href="#vopd">Vodniški odsek</a></li>
                     <li><a data-toggle="tab" href="#topd">Turnokolesarski odsek</a></li>
+                    <li><a data-toggle="tab" href="#ospd">Ostale dejavnosti</a></li>
                 </ul>
                 <div class="tab-content">
                     <div id="mopd" class="tab-pane fade in active">
@@ -23,6 +24,9 @@
                     </div>
                     <div id="topd" class="tab-pane fade">
                         {{ partial "plan_tabela.html" (dict  "page" . "odsek" "topd") }}
+                    </div>
+                    <div id="ospd" class="tab-pane fade">
+                        {{ partial "plan_tabela.html" (dict  "page" . "odsek" "ospd") }}
                     </div>
                 </div>
             </div>

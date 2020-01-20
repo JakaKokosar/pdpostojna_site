@@ -23,6 +23,11 @@ menu:
       url: "#"
       weight: 100
 
+    - name: "2020"
+      parent: "izleti"
+      url: "nacrt_izletov/2020"
+      weight: 197
+
     - name: "2019"
       parent: "izleti"
       url: "nacrt_izletov/2019"
