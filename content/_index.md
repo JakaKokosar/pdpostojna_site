@@ -5,9 +5,8 @@
 
 
 - **Odpiralni čas (Vojkova koča):**
-    - Petek 12.00 - 20.00
-    - Sobota 7.00 - 20.00
-    - Nedelja, praznik 7.00 - 16.00
+    - Sobota 7.00 - 17.00
+    - Nedelja 7.00 - 16.00
 
 
 <a class="btn" href="/documents/donacije_dohodnine_2019_obrazec.doc">
