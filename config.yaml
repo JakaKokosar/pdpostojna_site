@@ -23,6 +23,11 @@ menu:
       url: "#"
       weight: 100
 
+    - name: "Splošna navodila"
+      parent: "izleti"
+      url: "splosna_navodila/"
+      weight: 101
+
     - name: "2020"
       parent: "izleti"
       url: "nacrt_izletov/2020"
