@@ -1,6 +1,6 @@
 Pred nami je novo leto, s tem pa novi načrti in veliki cilji. Na nekatere se bomo podali skupaj. Naš plan je obsežen in dovolj pester, da se bo našlo za vsakega nekaj. Vse bomo objavljali  na naši spletni straniin [Facebook strani](https://www.facebook.com/pdpostojna/). Obvestila o dogodkih lahko prejmete po e-pošti, če se za to prijavite na [naši strani](https://pdpostojna.si/dodatne_informacije/)  ali pa jih spremljate vsako sredo po 15.00 uri na Radiu 94 v Minutkah za planinstvo.
 
-Seveda nam jo lahko zagode vreme, lahko zbolimo, si zvijemo gleženj …, a potrudili se bomo, da bo kar največ od tega, kar smo zapisali, tudi izpeljano. Si pa kljub temu pridržujemo pravico do sprememb tako datumov kot tudi ciljev. V publikaciji, ki je pred vami, manjkajo še izleti, ki jih bomo prav posebej organizirali za naše Poskočne nogice, ki se vse bolj veselo podajajo v okoliške hribe.
+Seveda nam jo lahko zagode vreme, lahko zbolimo, si zvijemo gleženj …, a potrudili se bomo, da bo kar največ od tega, kar smo zapisali, tudi izpeljano. Si pa kljub temu pridržujemo pravico do sprememb tako datumov kot tudi ciljev.
 
 
 **Splošna navodila za izlete:**
