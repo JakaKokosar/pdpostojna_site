@@ -4,7 +4,7 @@ type: "post"
 date: 2020-02-10
 author: Valentina Posega
 slug: dvodnevno_zimovanje_na_raduhi
-tags: ['Novice', 'Izlet', 'Mladinski odsek', 'februar 2020', '2020']
+tags: ['Novice', 'Izlet', 'Vodniški odsek', 'februar 2020', '2020']
 ---
 
 Čeprav je bilo v načrtu izletov PD Postojna predvideno zimovanje v Koči na gozdu na območju Vršiča, je zaradi dobro prevozne ceste skozi celo zimo obisk tamkajšnjih koč prevelik. Zato smo se odločili, da lokacijo spremenimo in sicer na veliko bolj mirno Raduho. 
