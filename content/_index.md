@@ -3,9 +3,9 @@
 ### Oglasna deska:
 - <a href="/documents/objave_dodatno_gradivo/Prevoz_clanov_Planinske_zveze_Slovenije.pdf">30% popust pri prevozih z vlakom za člane PZS!</a>
 
-## Vojkova koča na Nanosu je, zaradi epidemije Corona virusa, do nadaljnega zaprta. Hvala za razumevanje.
+### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
 
-<!-- 
+<!--   
 - **Odpiralni čas (Vojkova koča):**
     - Sobota 7.00 - 17.00
     - Nedelja 7.00 - 16.00 -->
