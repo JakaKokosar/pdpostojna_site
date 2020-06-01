@@ -1,11 +1,12 @@
 
 
 ### Oglasna deska:
-- <a href="/documents/objave_dodatno_gradivo/Prevoz_clanov_Planinske_zveze_Slovenije.pdf">30% popust pri prevozih z vlakom za člane PZS!</a>
-
-### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
+- <a href="https://pdpostojna.si/novice/izlet/mladinski_odsek/2020/taborjenje_podbela/">Taborjenje 2020 - Prijavnica</a>
+- **Vojkova koča na Nanosu je odprta vsak dan razen ob torkih, koča Mladika pa vsak dan razen ob ponedeljkih.**
 
 <!--   
+### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
+
 - **Odpiralni čas (Vojkova koča):**
     - Sobota 7.00 - 17.00
     - Nedelja 7.00 - 16.00 -->
