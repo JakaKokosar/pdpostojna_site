@@ -1,12 +1,13 @@
 ---
 title: RUDOLFOVANJE
 type: "post"
-date: 2020-06-29
+date: 2020-06-26
 author: Valentina Posega
 slug: rudolfovanje
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'junij 2020', '2020']
 ---
 
+<s>
 Pohodniško društvo Novo mesto organizira že peto Rudolfovanje v okviru praznovanja občinskega praznika Mestne občine Novo mesto:
 
 **pohodniško – kolesarsko – kulturno prireditev za obuditev in oživitev Rudolfove poti, skoraj 40 km dolge pohodniške in kolesarske poti po mejah bivšega mestnega pomerija Rudolfswertha (staro ime za Novo mesto), kakor ga je določil Rudolf IV. Habsburški z ustanovno listino leta 1365.**
@@ -43,3 +44,4 @@ V Konjeniškem centru  Češča vas bo zaključek aktivnega druženja. Vsak udel
 **PRIJAVE:**  	najkasneje do četrtka, 2. 07. 2020, do 12.00 ure na obe zgornji tel.številki ali na elektronska naslova: pohodniki -  valentina.posega@pdpostojna.si.
 
 Rudolfovanje 2020 bo v vsakem vremenu. Aktivnosti bodo prilagojene udeležencem in vremenskim razmeram.
+</s>
