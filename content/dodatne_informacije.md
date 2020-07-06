@@ -12,7 +12,7 @@ type: "informacije"
 ## Vojkova koča na Nanosu
 
 - **Kontakt:** 05 983 56 85
-- **Oskrbnik:** 041 595 879
+- **Oskrbnik:** 069 604 011
 
 
 ## Transakcijski račun 
