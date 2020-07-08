@@ -3,7 +3,7 @@ title: RUDOLFOVANJE (ODPOVEDAN)
 type: "post"
 date: 2020-07-03
 author: Valentina Posega
-slug: rudolfovanje
+slug: rudolfovanje_odpoved
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'junij 2020', '2020']
 ---
 
