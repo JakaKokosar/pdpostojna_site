@@ -1,10 +1,8 @@
 
 
 ### Oglasna deska:
-- **Taborjenje 2020 - Vsa mesta so zapolnjena zato prijave niso več odprte.**
-<!-- - <a href="https://pdpostojna.si/novice/izlet/mladinski_odsek/2020/taborjenje_podbela/">Taborjenje 2020 - Prijavnica</a> -->
 - **Vojkova koča na Nanosu je odprta vsak dan razen ob torkih, koča Mladika pa vsak dan razen ob ponedeljkih.**
-
+- <a href="https://www.pzs.si/novice.php?pid=13603">POPUST ZA ČLANE PZS | 30 % za vse vrste vlakov v Sloveniji</a>
 <!--   
 ### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
 
