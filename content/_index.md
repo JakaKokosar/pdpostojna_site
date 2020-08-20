@@ -3,12 +3,14 @@
 ### Oglasna deska:
 - **Vojkova koča na Nanosu je odprta vsak dan razen ob torkih, koča Mladika pa vsak dan razen ob ponedeljkih.**
 - <a href="https://www.pzs.si/novice.php?pid=13603">POPUST ZA ČLANE PZS | 30 % za vse vrste vlakov v Sloveniji</a>
+
 <!--   
 ### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
 
 - **Odpiralni čas (Vojkova koča):**
     - Sobota 7.00 - 17.00
-    - Nedelja 7.00 - 16.00 -->
+    - Nedelja 7.00 - 16.00 
+-->
 
 
 <!-- <a class="btn" href="/documents/donacije_dohodnine_2019_obrazec.doc">
