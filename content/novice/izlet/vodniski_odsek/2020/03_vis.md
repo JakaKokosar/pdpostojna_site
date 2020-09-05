@@ -1,12 +1,15 @@
 ---
-title: Vis
+title: Vis - ODPADE
 type: "post"
-date: 2020-02-22
+date: 2020-09-05
 author: Marija Kuhar
 slug: vis
-tags: ['Novice', 'Izlet', 'Vodniški odsek', 'februar 2020', '2020']
+tags: ['Novice', 'Izlet', 'Vodniški odsek', 'september 2020', '2020']
 ---
 
+# Izlet na Vis zaradi Covid-19 odpade.
+
+<strike>
 Vis (italijansko: Lissa, latinsko: Issa) je srednjedalmatinski otok v Srednjem Jadranu. Leži precej stran od celinske obale, približno 20 km zahodno od Hvara. S površino 89,72 km² je deveti največji hrvaški otok in peti največji med otoki Dalmacije. S celino ga povezuje trajekt na liniji Split - Vis. Otok je znan po neokrjeni naravi in milem podnebju. Na kraških poljih (Dračevo polje, Plisko polje, Zlo polje) uspeva vinska trta. Vis je že stoletja znan po odličnem vinu (Mali plavac, Vugava), po zelo aromatičnem in izredno kvalitetnem oljčnem olju ter po bio limonah (možnost nakupa domačih lokalnih proizvodov, za kar bomo kontaktirali domačine).
 
 Najvišji vrh na otoku je Hum (587 mnm), na katerega vodijo dobro urejene planinske poti.
@@ -82,3 +85,4 @@ V kolikor na pot ne morete, si lahko sami poiščete zamenjavo. V tem primeru va
 
 **VODJA (in informacije):** Marija Kuhar (tel. 041 663 117), Luka Kaluža (tel. 041 287 046) in
 lokalni turistični vodniki.
+<strike>

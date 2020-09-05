@@ -1,13 +1,16 @@
 ---
-title: Razpis za najem koče na Kokoši
+title: "PD Sežana: Razpis za najem koče na Kokoši"
 slug: razpis_za_najem_koce_na_kokosi
 type: "post"
 date: 2020-09-05
-author: PD Postojna
+author: PD Sežana
 tags: [Obvestilo, 'september 2020', '2020']
 ---
 
+Razpis je objavljen tudi na spletni strani PD Sežana:  https://www.pdsezana.org/2020/08/28/7349/ 
+
 Pogoji razpisa:
+
 - poznavanje dela z blagajno,
 - poznavanje skladiščne evidence materiala,
 - kulinarične spretnosti,
@@ -22,6 +25,7 @@ Pogoji razpisa:
 
 
 Dodatne lastnosti dobrega najemnika, ki jih pričakujemo:
+
 - osebna urejenost,
 - veder značaj,
 - profesionalen pristop pri vodenju,
@@ -41,7 +45,7 @@ Koča na Kokoši je uvrščena med planinske postojanke III. Kategorije pri Plan
 Na razpis za najem Koče na Kokoši se lahko prijavijo pravne osebe, katere izpolnjujejo in sprejemajo pogoje na osnovi Zakona o gostinstvu in ostale zakonodaje s področja gostinstva in turizma, Pravilnika o planinskih kočah, bivakih in planinskih učnih središčih.
 Izmed vseh z navedenimi zahtevami bodo izbrani le tisti, ki bodo zadoščali zahtevam razpisa in to tudi dokazno predstavili v sami prijavi za razpis. S potencialnimi kandidati se bomo dogovorili za ogled koče na Kokoši, njenih kapacitet ter ostalega inventarja.
 
-Kandidat vloži prijavo v pisni obliki, obvezno z označbo v zadevi »Najem koče na Kokoši«. Obvezna priloga (PDF) je svoj življenjepis s poudarkom na preteklih izkušnjah – v zgoraj navedenih točkah v razpisu ter videnjem razvoja dejavnosti v koči, najkasneje do 15. 9. 2020 izključno na elektronski naslov info@pdsezana.org, pri čemer veljavnost prijave ni pogojena z elektronskim podpisom. Nepolne vloge ne bodo obravnavane. O poslani e-pošti boste prejeli avtomatsko povratnico. Dodatne informacije lahko dobite na telefonski številki +38651371896 vsak torek in četrtek, od 20:00 do 21:00 do konca razpisa.
+Kandidat vloži prijavo v pisni obliki, obvezno z označbo v zadevi »Najem koče na Kokoši«. Obvezna priloga (PDF) je svoj življenjepis s poudarkom na preteklih izkušnjah – v zgoraj navedenih točkah v razpisu ter videnjem razvoja dejavnosti v koči, **najkasneje do 15. 9. 2020 izključno na elektronski naslov info@pdsezana.org**, pri čemer veljavnost prijave ni pogojena z elektronskim podpisom. Nepolne vloge ne bodo obravnavane. O poslani e-pošti boste prejeli avtomatsko povratnico. Dodatne informacije lahko dobite na telefonski številki +38651371896 vsak torek in četrtek, od 20:00 do 21:00 do konca razpisa.
 
 
 # Prijave sprejemamo do 15. 9. 2020
