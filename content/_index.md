@@ -1,7 +1,8 @@
 
 
 ### Oglasna deska:
-- **Vojkova koča na Nanosu je odprta vsak dan razen ob torkih, koča Mladika pa vsak dan razen ob ponedeljkih.**
+- **Vojkova koča na Nanosu je od 01.10. do 30. 04. odprta za vikende (petek - nedelja) in praznike, ostalo po dogovoru (in vremenu). Kontakt: 069 604 011**
+- **Koča mladika je trenutno zaprta, zaradi menjave najemnika.**
 - <a href="https://www.pzs.si/novice.php?pid=13603">POPUST ZA ČLANE PZS | 30 % za vse vrste vlakov v Sloveniji</a>
 
 <!--   
