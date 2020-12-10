@@ -1,8 +1,8 @@
 
 
 ### Oglasna deska:
-- **Zaradi trenutnih razmer sta obe koči zaprti.**
-- <a href="https://www.pzs.si/novice.php?pid=13603">POPUST ZA ČLANE PZS | 30 % za vse vrste vlakov v Sloveniji</a>
+- **Vojkova koča na Nanosu je odprta ob koncih tedna - od petka popoldne do nedelje popoldne. Vabi vas na topel obrok in pijačo.**
+- **Koča Mladika je trenutno zaprta.**
 
 <!--   
 ### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
