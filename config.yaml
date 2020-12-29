@@ -34,6 +34,11 @@ menu:
       url: "splosna_navodila/"
       weight: 101
 
+    - name: "2021"
+      parent: "izleti"
+      url: "nacrt_izletov/2021"
+      weight: 196
+
     - name: "2020"
       parent: "izleti"
       url: "nacrt_izletov/2020"
