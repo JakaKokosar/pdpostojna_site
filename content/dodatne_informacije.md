@@ -9,21 +9,49 @@ type: "informacije"
 - **Davčna številka**: 47947110
 - **Društvena telefonska številka**: 041-688-696
 
-## Vojkova koča na Nanosu
+## Vojkova koča na Nanosu {#vojkova}
 
 - **Kontakt:** 05 983 56 85
 - **Oskrbnik:** 069 604 011
 
+## Koča Mladika na Pečni rebri {#mladika}
+
+- **Kontakt:** 040 233 700
+- **Oskrbnica:** Andreja
 
 ## Transakcijski račun 
-(DELAVSKA HRANILNICA d.d., Ljublana)
+(DELAVSKA HRANILNICA d.d., Ljubljana)
 
 ##### Za plačila, članarin, izletov, tabornin:
 - IBAN SI56 6100 0001 7886 565
 
-
 ##### Zbiranje sredstev za obnovo in  urejanje Vojkove koče na Nanosu:
 - IBAN SI56 6100 0001 1189 588
+
+## Donacija dela dohodnine {#dohodnina}
+Spoštovani planinci in drugi oboževalci planin in narave!
+
+Že decembra smo vam pisali, da nam, če želite, lahko namenite pol odstotka plačane dohodnine. S pričetkom leta 2021 je prišlo do sprememb pri višini donacije in pri roku oddaje obrazca. Upravičencem tako lahko podarite **do 1 % svoje dohodnine**, rok za oddajo obrazca pa je podaljšan **do 31. maja 2021**.
+
+Upravičenci so društva in organizacije, ki delujejo v javnem interesu. Med njimi je tudi Planinsko društvo Postojna, ki ima status društva v javnem interesu na področju športa. Vsem tistim, ki ste nam del dohodnine že namenili, se iskreno zahvaljujemo. Vse tiste, ki se za namenitev dela dohodnine še niste odločili, pa vabimo, da izberete naše društvo in obrazec oddate do 31.5.2021.
+
+[OBRAZEC](/documents/donacije_dohodnine_2019_obrazec.doc)
+
+Izpolnjen obrazec lahko pošljete elektronsko ali po navadni pošti na pristojni davčni urad:
+
+**Davčni urad v Postojni:**  
+Finančni urad Postojna  
+p. p. 184  
+Tržaška cesta 1  
+6230 Postojna  
+
+
+Imetniki digitalnega potrdila pa lahko zahtevek izpolnete preko spletnega obrazca  
+([Dodatna pojasnila](https://edavki.durs.si/EdavkiPortal/openportal/CommonPages/Opdynp/PageD.aspx?category=namenitev_dela_dohodnine_fo)).
+
+**Še enkrat hvala vsem, ki ste in ki nam boste pomagali.**
+
+
 
 ## Članarino je mogoče poravnati 
 

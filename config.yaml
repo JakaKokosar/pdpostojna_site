@@ -12,6 +12,7 @@ params:
     subtitle: "Novice in informacije"
     logo: "img/pd_postojna_logo.png"
     favicon: "img/pd_postojna_logo.png"
+    mainSections: ["post","posts"]
 
 menu:
 

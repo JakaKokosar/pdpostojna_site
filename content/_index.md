@@ -1,8 +1,9 @@
-
-
 ### Oglasna deska:
-- **Vojkova koča na Nanosu je odprta ob koncih tedna - od petka popoldne do nedelje popoldne. Vabi vas na topel obrok in pijačo.**
-- **Koča Mladika je trenutno zaprta.**
+- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta ob koncih tedna - od petka popoldne do nedelje popoldne. Vabi vas na topel obrok in pijačo.**
+- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč.**
+- **Če plačate planinsko članarino do 31.1.2021, imate pri  naročilu revije Planinski vestnik 10 % popusta.**
+- [Donacija dohodnine do 31.5.2021]({{< relref "content/dodatne_informacije.md#dohodnina" >}})
+
 
 <!--   
 ### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
