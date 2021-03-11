@@ -1,17 +1,24 @@
 ---
-title: Izlet na Kriško goro
+title: Izlet na Kriško goro (PRESTAVLJEN)
 type: "post"
-date: 2021-03-10
+date: 2021-03-11
 author: Marija Kuharv
 slug: zlet_na_krisko_goro
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'marec 2021', '2021']
 ---
 
+
+### **KDAJ:** V soboto 13. 3. 2021
+
+### **ODHOD:**  Odhod avtobusa iz Pivke 7.45, iz Postojne 8.00.
+
+<br />
+
 Kriška gora ali Gojška planina, po kraju Gozd, ki se v lokalnem narečju izgovori kot Gojzd, Tržičanom znana tudi kot Kokovnica, je dobrih 5 kilometrov dolg greben, ki se razprostira vzhodno od Tržiča, zahodno od Storžiča, južno od Košute in severno od Golnika ter Udin boršta. Ime je gora dobila po vasi Križe, ki leži tik ob njenem vznožju. Na 1471 m stoji Koča na Kriški gori, do katere iz vasi Gozd poteka tovorna žičnica. Najvišji vrh grebena je Tolsti vrh (1715 m).
 
-**KDAJ:** V nedeljo, 14. 3. 2021
+~~**KDAJ:** V nedeljo, 14. 3. 2021~~
 
-**ODHOD:** ob 08.00 iz Postojne (parkirišče pred Primorko). Iz Pivke je lahko glede na zanimanje skupni prevoz z avtomobili. 
+~~**ODHOD:** ob 08.00 iz Postojne (parkirišče pred Primorko). Iz Pivke je lahko glede na zanimanje skupni prevoz z avtomobili.~~
 
 **POVRATEK:** med 15.00 in 16.00 uro.
 
