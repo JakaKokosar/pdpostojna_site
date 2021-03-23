@@ -3,6 +3,8 @@
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč. Nudijo vam hrano in pijačo.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
 - [Donacija dohodnine do 31.5.2021]({{< relref "content/dodatne_informacije.md#dohodnina" >}})
+- [Rezultati nagradne planinske igre](documents/objave_dodatno_gradivo/PD_Postojna_Corona_nagradna_igra_rezultati.pdf)
+
 
 
 <!--   
@@ -29,4 +31,3 @@
 <a class="btn" href="/documents/donacije_dohodnine_2018_obrazec.doc">
     <button class="btn btn-primary btn-lg get-started-btn">Donacija dela dohodnine</button>
 </a> -->
-
