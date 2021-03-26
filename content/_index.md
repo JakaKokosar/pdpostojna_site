@@ -6,7 +6,6 @@
 - [Rezultati nagradne planinske igre](documents/objave_dodatno_gradivo/PD_Postojna_Corona_nagradna_igra_rezultati.pdf)
 
 
-
 <!--   
 ### Vojkova koča na Nanosu in koča Mladika sta zaradi epidemije Corona virusa odprti po pravilih postopne odprave ukrepov. 
 
