@@ -8,12 +8,12 @@ tags: ['Novice', 'Izlet', 'Vodniški odsek', 'april 2021', '2021']
 ---
 
 Nepričakovano so danes zjutraj spremenili vremensko napoved in pravijo, da bo v
-nedeljo, 6. 6. 2021, zelo primeren dan za potepanje. Dolgo obljubljena Lepenatka in
+soboto, 5. 6. 2021, zelo primeren dan za potepanje. Dolgo obljubljena Lepenatka in
 Rogatec v osrednji Sloveniji prav vabita, da se končno povzpnemo nanju. Lepenatka
 je travnata, Rogatec pa je bolj zahteven – malo rogat. Da osvojimo oba, nas čaka 5 ur
 hoje, lahko pa se glede na sposobnosti in vreme zadovoljimo tudi samo z enim. Se
 bomo sproti prilagodili in naredili tako, da bo za vse kar najbolje.
-KDAJ: V nedeljo, 6. 6. 2021.
+KDAJ: V soboto, 5. 6. 2021.
 
 **ODHOD:**
 - ob 6:00 z avtobusne postaje v Pivki

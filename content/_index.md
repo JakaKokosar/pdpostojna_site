@@ -2,8 +2,11 @@
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta ob koncih tedna - od petka popoldne do nedelje popoldne. Vabi vas na topel obrok in pijačo.**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč. Nudijo vam hrano in pijačo.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
-- [Donacija dohodnine do 31.5.2021]({{< relref "content/dodatne_informacije.md#dohodnina" >}})
-- [Rezultati nagradne planinske igre](documents/objave_dodatno_gradivo/PD_Postojna_Corona_nagradna_igra_rezultati.pdf)
+- [Občni zbor PD Postojna - 10. 6. 2021]({{< relref "content/novice/dogodek/2021/05_obcni_zbor.md" >}})
+- [Taborjenje 2021 - prijava do 14. 6. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/03_taborjenje.md" >}})
+- [Natečaj Planinstvo v sliki in fotografiji - do 10. 9. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/02_natecaj_planinstvo_v_sliki_in_fotografiji.md" >}})
+
+<!-- - [Rezultati nagradne planinske igre](documents/objave_dodatno_gradivo/PD_Postojna_Corona_nagradna_igra_rezultati.pdf) -->
 
 
 <!--   
