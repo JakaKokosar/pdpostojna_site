@@ -12,7 +12,7 @@ type: "informacije"
 ## Vojkova koča na Nanosu {#vojkova}
 
 - **Kontakt:** 05 983 56 85
-- **Oskrbnik:** 069 604 011
+- **Oskrbnik:** 040 802 112 (Rok Žerjal)
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
