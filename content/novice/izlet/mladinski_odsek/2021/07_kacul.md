@@ -29,4 +29,5 @@ spoznali. Pri vsem tem nam bo delal družbo naš sramežljivi pomočnik
 Lepo vabljeni!
 
 **Prijave zbiramo do 22.9.2021**
+
 **Prijave in info:** Tina Oberstar 051-319-449
