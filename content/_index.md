@@ -1,5 +1,7 @@
 ### Oglasna deska:
-- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta ob koncih tedna - od petka popoldne do nedelje popoldne. Vabi vas na topel obrok in pijačo.**
+- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta v:**
+    - Ponedeljek, torek in sredo: 10h - 18h
+    - Četrtek, petek in soboto, nedelja: 7h - 18h 
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč. Nudijo vam hrano in pijačo.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
 <!-- - [Občni zbor PD Postojna - 10. 6. 2021]({{< relref "content/novice/dogodek/2021/05_obcni_zbor.md" >}}) -->
