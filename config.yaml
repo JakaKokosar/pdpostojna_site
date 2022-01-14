@@ -34,6 +34,11 @@ menu:
       parent: "izleti"
       url: "splosna_navodila/"
       weight: 101
+    
+    - name: "2022"
+      parent: "izleti"
+      url: "nacrt_izletov/2022"
+      weight: 195
 
     - name: "2021"
       parent: "izleti"
@@ -60,6 +65,6 @@ menu:
       url: "pomagajo_nam"
       weight: 200
 
-    - name: "Arhiv"
-      url: "tags"
-      weight: 300
+    # - name: "Arhiv"
+    #   url: "tags"
+    #   weight: 300

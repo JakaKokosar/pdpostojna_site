@@ -8,7 +8,7 @@
             <th scope="col">Cilj</th>
             <th scope="col">Vodja</th>
             <th scope="col">Opis</th>
-            <th scope="col">Razpis</th>
+            <!-- <th scope="col">Razpis</th> -->
           </tr>
         </thead>
         <tbody>
@@ -20,7 +20,7 @@
                             <td>{{ .Cilj }}</td>
                             <td>{{ .Vodja }}</td>
                             <td>{{ .Opis }}</td>
-                            <td>
+                            <!-- <td>
                             {{ if (not (isset . "Razpis")) | or (eq .Razpis "") }}
                             <a class="btn" href="#">
                                 <button class="btn btn-primary get-started-btn btn-lg" disabled>Več informacij</button>
@@ -30,7 +30,7 @@
                                 <button class="btn btn-primary btn-lg get-started-btn">Več informacij</button>
                             </a>
                             {{ end }}
-                            </td>
+                            </td> -->
                             
                         </tr>
                     {{ end }}
