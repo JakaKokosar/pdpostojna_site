@@ -1,9 +1,11 @@
+### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta v:**
     - Ponedeljek, torek in sredo: 10h - 18h
     - Četrtek, petek in soboto, nedelja: 7h - 18h 
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč. Nudijo vam hrano in pijačo.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
+
 <!-- - [Občni zbor PD Postojna - 10. 6. 2021]({{< relref "content/novice/dogodek/2021/05_obcni_zbor.md" >}}) -->
 <!-- - [Taborjenje 2021 - prijava do 14. 6. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/03_taborjenje.md" >}}) -->
 <!-- - [Natečaj Planinstvo v sliki in fotografiji - do 10. 9. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/02_natecaj_planinstvo_v_sliki_in_fotografiji.md" >}}) -->
