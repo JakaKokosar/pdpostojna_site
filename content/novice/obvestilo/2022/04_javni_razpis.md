@@ -1,5 +1,5 @@
 ---
-title: Javni razpis za najem koče Mladike na Pečni rebri
+title: Javni razpis za najem koče Mladike na Pečni rebri (podaljšan do 15.6.2022)
 slug: javni_razpis_za_najem_koce_mladike_na_pecni_rebri
 type: "post"
 date: 2022-06-03
