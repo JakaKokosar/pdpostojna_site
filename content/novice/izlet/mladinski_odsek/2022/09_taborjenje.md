@@ -1,5 +1,5 @@
 ---
-title: TABORJENJE V ČEZSOČI
+title: TABORJENJE V ČEZSOČI (Prijave zaprte)
 type: "post"
 date: 2022-05-14
 author: PD Postojna
@@ -40,7 +40,7 @@ Kolesarski tabor je namenjen vsem, ki gojijo ljubezen do turnega kolesarjenja in
 Cena za tabor 125 € oz. 25€/dan.
 
 
-Prijave potekajo elektronsko preko [spletnega obrazca](https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform?vc=0&c=0&w=1&flr=0).
+<!-- Prijave potekajo elektronsko preko [spletnega obrazca](https://docs.google.com/forms/d/e/1FAIpQLSfuXCmiQmriEZpWZ6hWKpYYjGOUDXsxTKLck3lBMoggpgWwEA/viewform?vc=0&c=0&w=1&flr=0). -->
 
 **Rok za prijave je 05.06.2022 oziroma do zapolnitve mest.**
 
