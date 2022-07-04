@@ -1,8 +1,9 @@
 ### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta v:**
-    - Ponedeljek, torek in sredo: 10h - 18h
-    - Četrtek, petek in soboto, nedelja: 7h - 18h 
+    - Torek in sredo: 10h - 18h
+    - Četrtek, petek in soboto, nedelja: 7h - 18h
+    - Ponedeljek: Zaprto.
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je odprta ob koncih tedna - preverite, če gori luč. Nudijo vam hrano in pijačo.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
 
