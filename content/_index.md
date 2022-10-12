@@ -6,7 +6,9 @@
     - Ponedeljek: Zaprto.
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je trenutno zaprta.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
-- **10% popusta v trgovini Intersport Postojna in Ajdovscina za člane PD Postojna**
+- **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
+    - 20% popusta na oblačila in obutev po rednih cenah,
+    - 10% popusta na športno opremo po rednih cenah.
 
 <!-- - [Občni zbor PD Postojna - 10. 6. 2021]({{< relref "content/novice/dogodek/2021/05_obcni_zbor.md" >}}) -->
 <!-- - [Taborjenje 2021 - prijava do 14. 6. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/03_taborjenje.md" >}}) -->
