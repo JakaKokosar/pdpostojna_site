@@ -1,6 +1,6 @@
 ---
 title: Pomoč pri prenovi Vojkove koče
-slug: obvestilo
+slug: obvestilo_5
 type: "post"
 date: 2022-08-04
 author: PD Postojna

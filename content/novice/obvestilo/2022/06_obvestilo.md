@@ -1,6 +1,6 @@
 ---
 title: Zapora - strma pot iz Razdrtega na Nanos
-slug: obvestilo
+slug: obvestilo_6
 type: "post"
 date: 2022-10-04
 author: PD Postojna
