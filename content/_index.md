@@ -1,9 +1,6 @@
 ### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
 ### Oglasna deska:
-- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu je odprta v:**
-    - Torek in sredo: 10h - 18h
-    - Četrtek, petek in soboto, nedelja: 7h - 18h
-    - Ponedeljek: Zaprto.
+- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu deluje po zimskem urniku od četrtka do nedelje od 10 do 16**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je trenutno zaprta.**
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
