@@ -32,7 +32,7 @@ pohodna obutev, vremenu primerna oblačila (kapa, rokavice), nahrbtnik, palerina
 voda ali nesladkan čaj, sendvič ali dva, suho sadje ali drugi zdravi prigrizki
 
 **CENA:**\
-8€ 
+8€
 
 **VODJA:**\
 Marija Kuhar (041 663 117) in Nika Čuk (040 173 239)
