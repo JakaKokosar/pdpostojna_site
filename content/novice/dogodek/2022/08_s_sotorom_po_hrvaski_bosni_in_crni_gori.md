@@ -1,7 +1,7 @@
 ---
 title: S ŠOTOROM PO HRVAŠKI, BOSNI IN ČRNI GORI
 type: "post"
-date: 2022-11-17
+date: 2022-11-19
 author: PD Postojna
 slug: s_sotorom_po_hrvaski_bosni_in_crni_gori
 tags: [Novice, Dogodek, 'november 2022', '2022']
