@@ -12,14 +12,14 @@ Za konec leta smo vam pripravili prav poseben izlet – odpravili se bomo na pla
 KDAJ: V soboto, 17. 12. 2022.
 
 ZBOR:
-ob 7:30 na železniški postaji v Pivki (vlak odide ob 7:42, bodite točni!)
-ob 7:35 na železniški postaji v Prestranku (vlak odide ob 7:49, bodite točni!)
-ob 8:00 na železniški postaji v Postojni (izhodiščno mesto pohoda)
+- ob 7:30 na železniški postaji v Pivki (vlak odide ob 7:42, bodite točni!)
+- ob 7:35 na železniški postaji v Prestranku (vlak odide ob 7:49, bodite točni!)
+- ob 8:00 na železniški postaji v Postojni (izhodiščno mesto pohoda)
  
 ZAKLJUČEK:
-ob 13:45 v Postojni pred hotelom Kras
- ob 14:37 prihod vlaka v Prestranek
- ob 14:44 prihod vlaka v Pivko
+- ob 13:45 v Postojni pred hotelom Kras
+- ob 14:37 prihod vlaka v Prestranek
+- ob 14:44 prihod vlaka v Pivko
  
 TEŽAVNOST: Izlet je primeren za učence od 1. razreda OŠ naprej, hoje bo približno do 3 ure.
 
