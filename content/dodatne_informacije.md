@@ -31,11 +31,12 @@ type: "informacije"
 ## Donacija dela dohodnine {#dohodnina}
 Spoštovani planinci in drugi oboževalci planin in narave!
 
-Že decembra smo vam pisali, da nam, če želite, lahko namenite pol odstotka plačane dohodnine. S pričetkom leta 2021 je prišlo do sprememb pri višini donacije in pri roku oddaje obrazca. Upravičencem tako lahko podarite **do 1 % svoje dohodnine**, rok za oddajo obrazca pa je podaljšan **do 31. maja 2021**.
+Davčni zavezanec rezident lahko zahteva, da se do 1 % dohodnine, odmerjene po zakonu o dohodnini, nameni za financiranje upravičencev do donacij (nevladne organizacije, politične stranke in drugi).
 
-Upravičenci so društva in organizacije, ki delujejo v javnem interesu. Med njimi je tudi Planinsko društvo Postojna, ki ima status društva v javnem interesu na področju športa. Vsem tistim, ki ste nam del dohodnine že namenili, se iskreno zahvaljujemo. Vse tiste, ki se za namenitev dela dohodnine še niste odločili, pa vabimo, da izberete naše društvo in obrazec oddate do 31.5.2021.
+Upravičenci, katerim je mogoče nameniti del dohodnine, so objavljeni na seznamu, ki ga za posamezno leto določi vlada in je objavljen v Uradnem listu RS najpozneje do 30. septembra tistega leta, za katero se odmerja dohodnina ter nato tudi na spletni strani FURS.
+Upravičenci so društva in organizacije, ki delujejo v javnem interesu. Med njimi je tudi Planinsko društvo Postojna, ki ima status društva v javnem interesu na področju športa.
 
-[OBRAZEC](/documents/donacije_dohodnine_2019_obrazec.doc)
+[OBRAZEC](/documents/obrazec-za-donacijo-dela-dohodnine.pdf)
 
 Izpolnjen obrazec lahko pošljete elektronsko ali po navadni pošti na pristojni davčni urad:
 
@@ -45,13 +46,12 @@ p. p. 184
 Tržaška cesta 1  
 6230 Postojna  
 
-
 Imetniki digitalnega potrdila pa lahko zahtevek izpolnete preko spletnega obrazca  
 ([Dodatna pojasnila](https://edavki.durs.si/EdavkiPortal/openportal/CommonPages/Opdynp/PageD.aspx?category=namenitev_dela_dohodnine_fo)).
 
 **Še enkrat hvala vsem, ki ste in ki nam boste pomagali.**
 
-## Članarino je mogoče poravnati 
+## Članarino je mogoče poravnati
 
 - V društveni pisarni
 - V papirnici Sponkca v Pivki
