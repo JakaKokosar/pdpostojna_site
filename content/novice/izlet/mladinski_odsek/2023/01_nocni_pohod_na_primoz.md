@@ -15,7 +15,7 @@ V petek, 13.1.2023
 **ODHOD?**
 Ob 17.00 uri izpred Krpanovega doma v Pivki
 
-**POTREBNA OPREMA?** 
+**POTREBNA OPREMA?**
 Ata, mama, babica ali dedek (lahko tudi vsi), da vas bodo pripeljali do Pivke, topla zimska oblačila (kapa, rokavice in šal) in primerna obutev, žepna ali čelna svetilka,  lonček za čaj (da bomo bolj eko) in veliko dobre volje.
 
 **HRANA in PIJAČA?**
