@@ -4,7 +4,7 @@ slug: obvestilo
 type: "post"
 date: 2023-01-05
 author: PD Postojna
-tags: [Obvestilo, 'december 2022', '2022']
+tags: [Obvestilo, 'januar 2023', '2023']
 ---
 
 V soboto 7.1. imamo delovno akcijo na Nanosu: čiščenje in pospravljanje v koči in okrog nje, nekaj razbijanja, zatiranje plesni...
