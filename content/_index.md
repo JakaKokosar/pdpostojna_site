@@ -1,4 +1,5 @@
 ### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
+### [Načrt izletov za leto 2023](nacrt_izletov/2023/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu deluje po zimskem urniku od četrtka do nedelje od 10 do 16**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je trenutno zaprta.**

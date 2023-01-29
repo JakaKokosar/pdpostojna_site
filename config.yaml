@@ -17,10 +17,6 @@ params:
 menu:
 
   main:
-    - name: "Corona izleti"
-      url: "corona_izleti"
-      weight: 1
-
     - name: "Dodatne Informacije"
       url: "dodatne_informacije"
       weight: 10
