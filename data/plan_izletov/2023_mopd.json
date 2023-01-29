@@ -1,0 +1,84 @@
+{                                                                                                                                                                                                       
+    "leto": "2023",                                                                                                                                                                                    
+    "odsek": "mopd",                                                                                                                                                                                   
+    "seznam": [
+        {
+            "Datum": "13.01.2023",
+            "Cilj": "Nočni Primož in bunkerji",
+            "Vodja": "Neva Šemrov",
+            "Opis": "za otroke, družine in odrasle"
+        },
+        {
+            "Datum": "18.02.2023",
+            "Cilj": "Obalne poti",
+            "Vodja": "Marija Kuhar",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "24.2. - 26.2.2023",
+            "Cilj": "Sviščaki - zimovanje za otroke",
+            "Vodja": "Marija Kuhar, Aleksander Furlan, Jernej Žnidaršič",
+            "Opis": "od 4. razreda naprej, zimske ture, 3 dni"
+        },
+        {
+            "Datum": "11.03.2023",
+            "Cilj": "Planinska gora iz Studenega",
+            "Vodja": "Jernej Žnidaršič",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "15.04.2023",
+            "Cilj": "Sekulak",
+            "Vodja": "Hana Čuk, Aleksander Furlan",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "20.5.2023",
+            "Cilj": "Srečanje mladih planincev MDO Primorske",
+            "Vodja": "PD Sežana, Marija Kuhar, Tina Oberstar",
+            "Opis": "vrtec in od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "28.5.2023",
+            "Cilj": "Škocjanske jame - dan odprtih vrat",
+            "Vodja": "Erika Mahnič",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "17.06.2023",
+            "Cilj": "Velika planina",
+            "Vodja": "Nika Čuk, Valentina Posega",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "24.7. -30.7.2023",
+            "Cilj": "Tabor PD Postojna",
+            "Vodja": "Vsi vodniki",
+            "Opis": "različne skupine, različne ture, 7 dni"
+        },
+        {
+            "Datum": "16.09.2023",
+            "Cilj": "Kršičevec",
+            "Vodja": "Nina Fatur",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "01.10.2023",
+            "Cilj": "Dolina Glinščice",
+            "Vodja": "Erika Mahnič, Izabel Premrl",
+            "Opis": "za otroke in odrasle, lahka"
+        },
+        {
+            "Datum": "11.11.2023",
+            "Cilj": "Izlet presenečenja",
+            "Vodja": "Hana Čuk, Valentina Posega",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "2.-3.12.2023",
+            "Cilj": "Zimsko rajanje",
+            "Vodja": "Tanja Žele, Mitja Smrekar",
+            "Opis": "vrtec in od 1. razreda naprej, zimska, lahka"
+        }
+    ]
+}
