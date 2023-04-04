@@ -2,7 +2,9 @@
 ### [Načrt izletov za leto 2023](nacrt_izletov/2023/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu deluje po zimskem urniku od četrtka do nedelje od 10 do 16**
-- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je trenutno zaprta.**
+- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je ponovno odprta:**
+    - **ponedeljek:** zaprto
+    - **torek - nedelja:** 12.00 - 24.00
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
     - 20% popusta na oblačila in obutev po rednih cenah,

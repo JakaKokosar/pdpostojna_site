@@ -9,4 +9,4 @@ tags: [Obvestilo, 'junij 2022', '2022']
 
 {{< raw_html >}}
 <embed src="/documents/razpis/razpis-Mladika-2022.pdf" width="100%" height="1000px" type="application/pdf">
-{{< raw_html >}}
+{{< / raw_html >}}

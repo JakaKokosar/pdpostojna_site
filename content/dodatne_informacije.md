@@ -16,8 +16,10 @@ type: "informacije"
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
-- **Kontakt:** 040 233 700
-- **Oskrbnica:** Andreja
+- **Oskrbnik:** Ilija
+- **Odpiralni čas:**
+    - **ponedeljek:** zaprto
+    - **torek - nedelja:** 12.00 - 24.00
 
 ## Transakcijski račun 
 (DELAVSKA HRANILNICA d.d., Ljubljana)
