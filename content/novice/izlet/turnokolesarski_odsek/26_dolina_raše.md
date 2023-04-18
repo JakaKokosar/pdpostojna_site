@@ -9,7 +9,7 @@ tags: ['Novice', 'Izlet', 'Turnokolesarski odsek', 'april 2023', '2023']
 
 
 **ZBIRNO MESTO**
-V soboto, 22.04.2023, ob 9:00 (V PRIMERU DEŽJA)
+V soboto, 22.04.2023, ob 9:00
 Majcni, na avtobusni postaji, pri balincu.
 Na glavni cesti Senožeče - Sežana, v vasi Štorje zavijemo desno proti Štanjelu in takoj spet desno, smer Vrabče, Štjak.
 
