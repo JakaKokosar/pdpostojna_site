@@ -17,9 +17,10 @@ type: "informacije"
 ## Koča Mladika na Pečni rebri {#mladika}
 
 - **Oskrbnik:** Ilija
+- **Kontakt:** 070 689 265
 - **Odpiralni čas:**
-    - **ponedeljek:** zaprto
-    - **torek - nedelja:** 12.00 - 24.00
+    - **petek - nedelja in prazniki:**  8.00 - 20.00
+    - **ostali dnevi:** ZAPRTO
 
 ## Transakcijski račun 
 (DELAVSKA HRANILNICA d.d., Ljubljana)
