@@ -1,0 +1,48 @@
+{                                                                                                                                                                                                       
+    "leto": "2023",                                                                                                                                                                                    
+    "odsek": "topd",                                                                                                                                                                                   
+    "seznam": [
+        {
+            "Datum": "19.02",
+            "Cilj": "Pustno kolesarjenje po oba",
+            "Vodja": "Tomaž Penko in OPD Koper",
+            "Opis": ""                                                                                                                                                                             
+       }, 
+       {
+            "Datum": "25.03.",
+            "Cilj": "Po zgornji Pivki",
+            "Vodja": "Mitja Kristan",
+            "Opis": ""                                                                                                                                                                             
+        },
+        {
+            "Datum": "22.04.",
+            "Cilj": "Dolina Raše",
+            "Vodja": "Matej Škrlj",
+            "Opis": ""                                                                                                                                                                             
+        },
+        {
+            "Datum": "13.05.",
+            "Cilj": "Tura brez meja",
+            "Vodja": "Nataša Kocjančič",
+            "Opis": ""                                                                                                                                                                             
+        },
+        {
+            "Datum": "10.06.",
+            "Cilj": "Kurešček",
+            "Vodja": "Milka Comino",
+            "Opis": ""                                                                                                                                                                             
+        },
+        {
+            "Datum": "08.07.",
+            "Cilj": "Čez Javornik",
+            "Vodja": "Tomaž Penko",
+            "Opis": ""                                                                                                                                                                             
+        },
+        {
+            "Datum": "15.10.",
+            "Cilj": "Fletban",
+            "Vodja": "Matej Škrlj ",
+            "Opis": ""                                                                                                                                                                             
+        }
+    ]
+}
