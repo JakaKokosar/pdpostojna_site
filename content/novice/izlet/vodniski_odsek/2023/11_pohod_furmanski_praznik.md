@@ -3,7 +3,7 @@ title: Pohod ob 30. furmanskem prazniku
 type: "post"
 date: 2023-06-20
 author: PD Postojna
-slug: nanos
+slug: pohod_furmanski_praznik
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'junij 2023', '2023']
 ---
 
