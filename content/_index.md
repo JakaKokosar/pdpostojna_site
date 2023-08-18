@@ -3,6 +3,7 @@
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu deluje po zimskem urniku od četrtka do nedelje od 10 do 16**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je ponovno odprta:**
+    - **četrtek - sreda:**  10.00 - 20.00
     - **petek - nedelja in prazniki:** 8.00 - 20.00
     - **ostali dnevi:** ZAPRTO
 - **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**

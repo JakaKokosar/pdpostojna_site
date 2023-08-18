@@ -19,6 +19,7 @@ type: "informacije"
 - **Oskrbnik:** Ilija
 - **Kontakt:** 070 689 265
 - **Odpiralni čas:**
+    - **četrtek - sreda:**  10.00 - 20.00
     - **petek - nedelja in prazniki:**  8.00 - 20.00
     - **ostali dnevi:** ZAPRTO
 
