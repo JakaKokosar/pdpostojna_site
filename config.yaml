@@ -30,6 +30,11 @@ menu:
       parent: "izleti"
       url: "splosna_navodila/"
       weight: 101
+      
+    - name: "2024"
+      parent: "izleti"
+      url: "nacrt_izletov/2024"
+      weight: 193
 
     - name: "2023"
       parent: "izleti"
