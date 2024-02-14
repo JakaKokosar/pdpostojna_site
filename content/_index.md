@@ -6,7 +6,7 @@
     - **četrtek - sreda:**  10.00 - 20.00
     - **petek - nedelja in prazniki:** 8.00 - 20.00
     - **ostali dnevi:** ZAPRTO
-- **Člani PZS imajo pri prevozih z vlakom 30 % popusta pri nakupu enosmernih in povratnih vozovnic za 2. razred.**
+- **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
     - 20% popusta na oblačila in obutev po rednih cenah,
     - 10% popusta na športno opremo po rednih cenah.
