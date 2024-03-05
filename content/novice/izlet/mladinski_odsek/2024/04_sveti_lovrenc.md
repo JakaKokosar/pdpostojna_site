@@ -1,5 +1,5 @@
 ---
-title: Sveti Lovcrenc
+title: Sveti Lovrenc
 type: "post"
 date: 2024-03-04
 author: PD Postojna
@@ -14,7 +14,7 @@ Ta lokalni vrh je priljubljena destinacija domačinov, gre pa za odlično izbiro
 
 **KDAJ:**   v soboto, 9. marec 2024
 
-**ZBORNO MESTO:**q08.00, v vasi Studeno
+**ZBORNO MESTO:** 08.00, v vasi Studeno
 
 **ZAKLJUČEK:**  prihod med okrog 12.00 ure, nazaj v Studenem
 
