@@ -1,9 +1,9 @@
 ---
 title: Sveti Vid Dobrinjski – Gradec - Risika
 type: "post"
-date: 2024-02-25
+date: 2024-03-04
 author: PD Postojna
-slug: palcje
+slug: sveti_vid_dobrinjski_gradec_risika
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'februar 2024', '2024']
 ---
 
