@@ -1,7 +1,7 @@
 ---
 title: IDRIJSKA ŽELEZNIŠKA PENTLJA
 type: "post"
-date: 2024-04-13
+date: 2024-04-12
 author: PD Postojna
 slug: idrijska_zelezna_pentlja
 tags: ['Novice', 'Izlet', 'Turnokolesarski odsek', 'april 2024', '2024']

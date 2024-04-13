@@ -43,6 +43,8 @@ Za prijavo oddajte svoj življenjepis s poudarkom na preteklih izkušnjah in vid
 
 Z izbranimi kandidati bodo opravljeni ločeni razgovori, omogočen bo ogled koče. Prednost bodo imeli kandidati, ki izpolnjujejo pogoje, navedene v razpisu. Od izbranega kandidata bomo zahtevali potrdilo o nekaznovanju.
 
-Upravni odbor                                               Predsednica
-Planinskega društva Postojna                                Neva Šemrov
+Upravni odbor                                              
+Planinskega društva Postojna 
 
+Predsednica
+Neva Šemrov
