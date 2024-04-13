@@ -2,14 +2,17 @@
 ### [Načrt izletov za leto 2024](nacrt_izletov/2024/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  na Nanosu deluje po zimskem urniku od četrtka do nedelje od 10 do 16**
-- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je ponovno odprta:**
-    - **četrtek - sreda:**  10.00 - 20.00
-    - **petek - nedelja in prazniki:** 8.00 - 20.00
-    - **ostali dnevi:** ZAPRTO
+- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je zaprta**
 - **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
     - 20% popusta na oblačila in obutev po rednih cenah,
     - 10% popusta na športno opremo po rednih cenah.
+
+
+<!-- - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je ponovno odprta:**
+    - **četrtek - sreda:**  10.00 - 20.00
+    - **petek - nedelja in prazniki:** 8.00 - 20.00
+    - **ostali dnevi:** ZAPRTO -->
 
 <!-- - [Občni zbor PD Postojna - 10. 6. 2021]({{< relref "content/novice/dogodek/2021/05_obcni_zbor.md" >}}) -->
 <!-- - [Taborjenje 2021 - prijava do 14. 6. 2021]({{< relref "content/novice/izlet/mladinski_odsek/2021/03_taborjenje.md" >}}) -->
