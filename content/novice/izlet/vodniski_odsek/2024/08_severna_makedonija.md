@@ -1,7 +1,7 @@
 ---
 title: 7-dnevni izlet v Severno Makedonijo
 type: "post"
-date: 2024-04-22
+date: 2024-05-13
 author: PD Postojna
 slug: 7_dnevni_izlet_v_severno_makedonijo
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'maj 2024', '2024']
