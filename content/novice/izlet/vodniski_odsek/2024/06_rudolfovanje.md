@@ -1,9 +1,9 @@
 ---
-title: RUDOLFOVANJE 2024
+title: SNEŽNIK iz Leskove doline
 type: "post"
-date: 2024-04-02
+date: 2024-05-20
 author: PD Postojna
-slug: rudolfovanje_2024
+slug: sneznik_iz_leskove_doline
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'april 2024', '2024']
 ---
 
