@@ -14,7 +14,7 @@ zgodovino cerkve sv. Janeza Krstnika. Pot bomo nadaljevali do Matenje vasi. Tam 
 rani poti proti vrhu Grmače. Kmalu bomo zagledali kamen, ki označuje vrh, 632m. Vračali se bomo po isti poti do
 Štivana. Skozi gozdiček in ob reki Pivki bomo prišli do šole na Prestranku. Od tam do cilja v Kočah je pa le še streljaj.
 
-Zbor udeležencev pohoda bo v Kočah 57a (pri Andrecevih) ob 8.30 uri
+Zbor udeležencev pohoda bo v Kočah 57a (pri Andrecevih) **ob 8.30 uri v soboto, 25. 5. 2024**
 
 Začetek pohoda: ob 9.00
 
