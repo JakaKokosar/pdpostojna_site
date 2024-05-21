@@ -3,7 +3,7 @@ title: SNEŽNIK iz Leskove doline
 type: "post"
 date: 2024-05-20
 author: PD Postojna
-slug: sneznik_iz_leskove_doline
+slug: sneznik_iz_leskove_doline_2024
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'maj 2024', '2024']
 ---
 
