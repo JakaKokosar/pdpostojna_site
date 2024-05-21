@@ -1,9 +1,9 @@
 ---
-title: 13. POHOD PO IZOVI POTI - na Matenjski Triglav
+title: SNEŽNIK iz Leskove doline
 type: "post"
-date: 2024-05-19
+date: 2024-05-20
 author: PD Postojna
-slug: pohod_po_izovi_poti
+slug: sneznik_iz_leskove_doline
 tags: ['Novice', 'Izlet', 'Vodniški odsek', 'maj 2024', '2024']
 ---
 
