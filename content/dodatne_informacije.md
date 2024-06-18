@@ -11,17 +11,17 @@ type: "informacije"
 
 ## Vojkova koča na Nanosu {#vojkova}
 
-- **Kontakt:** 05 983 56 85
-- **Oskrbnik:** 040 802 112 (Rok Žerjal)
+- **Kontakt:** 041 605 538 (Dean Žigon), 031 228 986 (Jožica Dujmovič)
+- **Obratovalni čas:**  
+    - NE 8.00-16.00
+    - PO, SRE, ČET, PET, SOB: 9.00-17.00
+    - V TOREK ZAPRTO 
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
-- **Oskrbnik:** Ilija
-- **Kontakt:** 070 689 265
-- **Odpiralni čas:**
-    - **četrtek - sreda:**  10.00 - 20.00
-    - **petek - nedelja in prazniki:**  8.00 - 20.00
-    - **ostali dnevi:** ZAPRTO
+- **Kontakt:** 041 254 230 (Martin Kobal)
+- **Email:**  mladika.koca@gmail.com
+- **Obratovalni čas:** SO, NE 10.00-18.00
 
 ## Transakcijski račun 
 (DELAVSKA HRANILNICA d.d., Ljubljana)

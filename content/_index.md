@@ -1,8 +1,12 @@
 ### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
 ### [Načrt izletov za leto 2024](nacrt_izletov/2024/)
 ### Oglasna deska:
-- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}})  je zaprta do pridobitve uporabnega dovoljenja.**
-- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je zaprta**
+- **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}}):**
+    - **NE 8.00-16.00**
+    - **PO, SRE, ČET, PET, SOB: 9.00-17.00**
+    - **V TOREK ZAPRTO**
+- **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}}):**
+    -  **SO, NE 10.00-18.00**
 - **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
     - 20% popusta na oblačila in obutev po rednih cenah,
