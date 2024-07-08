@@ -11,7 +11,7 @@ type: "informacije"
 
 ## Vojkova koča na Nanosu {#vojkova}
 
-- **Kontakt:** 041 605 538 (Dean Žigon), 031 228 986 (Jožica Dujmovič)
+- **Kontakt:** 041 605 538 (Dean Žigon)
 - **Obratovalni čas:**  
     - NE 8.00-16.00
     - PO, SRE, ČET, PET, SOB: 9.00-17.00
