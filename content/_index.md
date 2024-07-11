@@ -3,8 +3,8 @@
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}}):**
     - **NE 8.00-16.00**
-    - **PO, SRE, ČET, PET, SOB: 9.00-17.00**
-    - **V TOREK ZAPRTO**
+    - **TOR, SRE, ČET, PET, SOB: 9.00-17.00**
+    - **V PONEDELJEK ZAPRTO**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}}):**
     -  **SO, NE 10.00-18.00**
 - **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**

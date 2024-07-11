@@ -14,8 +14,8 @@ type: "informacije"
 - **Kontakt:** 041 605 538 (Dean Žigon)
 - **Obratovalni čas:**  
     - NE 8.00-16.00
-    - PO, SRE, ČET, PET, SOB: 9.00-17.00
-    - V TOREK ZAPRTO 
+    - TOR, SRE, ČET, PET, SOB: 9.00-17.00
+    - V PONEDELJEK ZAPRTO 
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
