@@ -2,15 +2,25 @@
 ### [Načrt izletov za leto 2024](nacrt_izletov/2024/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}}):**
-    - **NE 8.00-16.00**
-    - **TOR, SRE, ČET, PET, SOB: 9.00-17.00**
+    - **NE 6.00-17.00**
+    - **SOB 7.00-19.00**
+    - **TOR, SRE, ČET, PET, SOB: 8.00-17.00**
     - **V PONEDELJEK ZAPRTO**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}}):**
-    -  **SO, NE 10.00-18.00**
-- **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**
+    -  **SO, NE 12.00-18.00**
+
+### Prošnja za pomoč!
+
+Spoštovani člani in ostali uporabniki Vojkove koče na Nanosu.
+
+Verjetno ste opazili, da je koča ponovno odprla vrata in upam, da nam bo v njej prijetno. Kot tudi veste, sobe še niso končane. Po eni strani, ker smo zelo na kratko z denarjem, po drugi strani pa tudi zato, ker nam, po večini 3-5 (petim) prostovoljcem, ki gor delamo, zmanjkuje moči in energije. Koča je NAŠA, ne  Sandijeva, Aleševa, Jožetova, od Ester ali Marije in Ančke ali od Mitja ali moja, zato vas prosimo za pomoč. Prosim javite se tisti, ki lahko pomagate pri pleskanju, polaganju vinila in montaži vrat. Vsi, ki ste pogosti gostje, se lahko brez ovir povzpnete v mansardo, in popleskate par zidov, je vse na razpolago, samo roke in voljo je potrebno prinesti s seboj. V kolikor nam bo še kdo pomagal, lahko hitro zaključimo in predamo sobe v uporabo.
+
+Prijave za delo na društven telefon 041 688 696 ali Sandiju
+
+<!-- - **(Ugodnosti za člane PZS)[https://clanarina.pzs.si/ugodnosti-za-clane]**
 - **Člani PD Postojna imajo pri nakupu v trgovinah Intersport Postojna in Ajdovscina:**
     - 20% popusta na oblačila in obutev po rednih cenah,
-    - 10% popusta na športno opremo po rednih cenah.
+    - 10% popusta na športno opremo po rednih cenah. -->
 
 
 <!-- - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}})  je ponovno odprta:**

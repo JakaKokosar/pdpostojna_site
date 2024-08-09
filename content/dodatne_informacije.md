@@ -13,15 +13,16 @@ type: "informacije"
 
 - **Kontakt:** 041 605 538 (Dean Žigon)
 - **Obratovalni čas:**  
-    - NE 8.00-16.00
-    - TOR, SRE, ČET, PET, SOB: 9.00-17.00
+    - NE 6.00-17.00
+    - SOB 7.00-19.00
+    - TOR, SRE, ČET, PET, SOB: 8.00-17.00
     - V PONEDELJEK ZAPRTO 
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
 - **Kontakt:** 041 254 230 (Martin Kobal)
 - **Email:**  mladika.koca@gmail.com
-- **Obratovalni čas:** SO, NE 10.00-18.00
+- **Obratovalni čas:** SO, NE 12.00-18.00
 
 ## Transakcijski račun 
 (DELAVSKA HRANILNICA d.d., Ljubljana)
