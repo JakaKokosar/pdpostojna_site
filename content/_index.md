@@ -2,10 +2,10 @@
 ### [Načrt izletov za leto 2024](nacrt_izletov/2024/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}}):**
-    - **NE 6.00-17.00**
-    - **SOB 7.00-19.00**
-    - **TOR, SRE, ČET, PET, SOB: 8.00-17.00**
-    - **V PONEDELJEK ZAPRTO**
+    - **NE 7.00-17.00**
+    - **PET 12.00-17.00**
+    - **ZA PRAZNIKE IN POĊITNICE**
+    - **VNAPREJ NAJAVLJENE SKUPINE (med tednom)**
 - **[Koča Mladika]({{< relref "content/dodatne_informacije.md#mladika" >}}):**
     -  **SO, NE 12.00-18.00**
 
