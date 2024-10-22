@@ -11,11 +11,15 @@ Naša pot nas bo vodila na Hrvaško, prehodili bomo stezo Litica nad Crikvenico.
 
 
 **KDAJ:** V nedeljo, 27. 10. 2024.
+
 **ODHOD:**
 - Ob 6:50 z avtobusne postaje pri OŠ A. Globočnika v Postojni (pri Primorki), 
 - ob 7:00 z avtobusne postaje v Pivki (pri Krpanovem domu).
+
 **POVRATEK:** V poznih popoldanskih urah.
+
 **TEŽAVNOST:** Tura ni zahtevna, hoje približno 5,5 ur. 
+
 **OPREMA:** Nahrbtnik, visoki planinski čevlji z močnim podplatom, pohodne palice, oblačila, primerna vremenu, rezervna oblačila, evropska kartica zdravstvenega zavarovanja, osebna izkaznica oz.veljaven dokument za prehod državne meje.
 
 **HRANA in PIJAČA:** Po lastni izbiri iz nahrbtnika (sendviči, voda, energetske ploščice…).
