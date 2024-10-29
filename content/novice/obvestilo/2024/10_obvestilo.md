@@ -20,3 +20,11 @@ Na 28. seji Upravnega odbora dne 4.10.2024 smo sklenili, da Občnemu zboru, ki j
 Verjemite mi, da se po dveh letih in pol gradnje na Nanosu globoko zavedamo s kakšnimi žrtvami in s kakšnim pridnim delom, sta bili zgrajeni obe naši koči. Sami smo to pošteno izkusili in se še kar ne moremo izviti iz primeža te obnove. Če bi vedeli kaj nas čaka, se gotovo tega ne bi lotili. Ravno zato smo k prodaji pristopili preko oglasa, da bi iztržili čim več, vendar vsekakor ne na račun dobrobiti članov in občanov. Interes za odkup je pokazala tudi občina Postojna in osebno upam, da se bomo uspeli dogovorit z njimi,  imajo predkupno pravico in koča bi ostala v skupni lasti. Oglas je zastavljen tako, da o prodaji odloča lastnik = društvo, ki ni nujno, da pri tem upošteva le ceno.
 
 Vsekakor bo končna odločitev na ramenih Občnega zbora, ki ga bomo sklicali, takoj ko se bomo lahko pogovarjali o konkretnih cenah in konkretnih kupcih.
+
+Za vse konstruktivne predloge smo dosegljivi na mail:  info@pdpostojna.si, ali na telefon 041-688-696  v popoldanskem času.
+
+Želim vam varen korak na vaših planinskih poteh!
+
+Neva Šemrov
+predsednica društva
+
