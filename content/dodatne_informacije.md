@@ -15,8 +15,10 @@ type: "informacije"
 - **Obratovalni čas:**  
     - NE 7.00-17.00
     - PET 12.00-17.00
+    - SOB 7.00-17.00
     - ZA PRAZNIKE IN POĊITNICE
     - VNAPREJ NAJAVLJENE SKUPINE (med tednom)
+    - - **Email:** info@pdpostojna.si
 
 ## Koča Mladika na Pečni rebri {#mladika}
 
