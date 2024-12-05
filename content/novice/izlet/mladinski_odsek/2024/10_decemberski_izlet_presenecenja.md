@@ -1,7 +1,7 @@
 ---
 title: DECEMBERSKI IZLET PRESENEČENJA
 type: "post"
-date: 2024-12-14
+date: 2024-12-05
 author: PD Postojna
 slug: decemberski_izlet_presenecenja
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'december 2024', '2024']
