@@ -1,7 +1,7 @@
 ---
 title: NOČNI POHOD NA PRIMOŽ
 type: "post"
-date: 2024-12-05
+date: 2025-01-10
 author: PD Postojna
 slug: nocni_pohod_na_primoz
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'januar 2025', '2025']
