@@ -1,0 +1,72 @@
+{
+    "leto": "2025",
+    "odsek": "mopd",
+    "seznam": [
+        {
+            "Datum": "17.1.2025",
+            "Cilj": "Nočni pohod na Primož",
+            "Vodja": "Tina Oberstar s pomočniki",
+            "Opis": "za otroke, družine in odrasle, lahka"
+        },
+        {
+            "Datum": "15.2.2025",
+            "Cilj": "Planina nad Koritnicami",
+            "Vodja": "Nina Fatur",
+            "Opis": "od 1. razreda naprej, zimska, lahka"
+        },
+        {
+            "Datum": "15.3.2025",
+            "Cilj": "Šebrelje",
+            "Vodja": "Neva Šemrov",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "12.4.2025",
+            "Cilj": "Naravovarstveni izlet na Ljubljansko barje",
+            "Vodja": "Milka Comino",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "17.5.2025",
+            "Cilj": "Srečanje mladih planincev MDO Primorske",
+            "Vodja": "PD Piran, Izabel Premrl, Hana Čuk",
+            "Opis": "vrtec in od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "7.6.2025",
+            "Cilj": "Visoki Mavrinc",
+            "Vodja": "Nika Čuk",
+            "Opis": "lahka"
+        },
+        {
+            "Datum": "6.7. - 13.7.2025",
+            "Cilj": "Tabor PD Postojna (Mlačca, Mojstrana)",
+            "Vodja": "Vsi vodniki",
+            "Opis": "različne skupine, različne ture, 7 dni"
+        },
+        {
+            "Datum": "20.9.2025",
+            "Cilj": "Bele stene in Kršičevec",
+            "Vodja": "Martin Mahnič",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "11.10.2025",
+            "Cilj": "Špičasti vrh nad Colom",
+            "Vodja": "Valentina Posega",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "15.11.2025",
+            "Cilj": "Kozlek nad Ilirsko Bistrico",
+            "Vodja": "Izabel Vadnal, Tina Oberstar",
+            "Opis": "od 1. razreda naprej, lahka"
+        },
+        {
+            "Datum": "13.12.2025",
+            "Cilj": "Izlet presenečenja",
+            "Vodja": "Nika Čuk, Mitja Smrekar",
+            "Opis": "od 1. razreda naprej, lahka"
+        }
+    ]
+}
