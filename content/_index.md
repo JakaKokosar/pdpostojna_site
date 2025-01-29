@@ -1,5 +1,5 @@
 ### [Prijava na društvena obvestila](http://eepurl.com/duk-8j)
-### [Načrt izletov za leto 2024](nacrt_izletov/2024/)
+### [Načrt izletov za leto 2025](nacrt_izletov/2025/)
 ### Oglasna deska:
 - **[Vojkova koča]({{< relref "content/dodatne_informacije.md#vojkova" >}}):**
     - **NE 7.00-17.00**
