@@ -34,7 +34,7 @@ menu:
     - name: "2025"
       parent: "izleti"
       url: "nacrt_izletov/2025"
-      weight: 193
+      weight: 192
       
     - name: "2024"
       parent: "izleti"
