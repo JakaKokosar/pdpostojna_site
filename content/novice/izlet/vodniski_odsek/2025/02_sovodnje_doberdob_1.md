@@ -29,6 +29,6 @@ Podali se bomo na del petega odseka Vertikale, planinske obhodnice po zamejskih 
 
 **CENA IZLETA:** 20 - 25 EUR (odvisno od prijav) - brez razstave, vstopnina v grad je 5€ 
 
-**PRIJAVE:** <strike>najkasneje do srede, 19.2.2025, do 17. ure</strike> **ROK PRIJAV PODALJŠAN DO ZAPOLNITVE MEST** na elektronski naslov: marija.kuhar.ku@gmail.com ali na telefon 041 663 117. Ob prijavi navedite, če bi šli tudi na razstavo, da najavimo število udeležencev.
+**PRIJAVE:** **ROK PRIJAV PODALJŠAN DO ZAPOLNITVE MEST** na elektronski naslov: marija.kuhar.ku@gmail.com ali na telefon 041 663 117. Ob prijavi navedite, če bi šli tudi na razstavo, da najavimo število udeležencev.
 
 V primeru slabega vremena bo izlet odpovedan, o čemer vas bomo obvestili najkasneje v četrtek 20.2.2025.
