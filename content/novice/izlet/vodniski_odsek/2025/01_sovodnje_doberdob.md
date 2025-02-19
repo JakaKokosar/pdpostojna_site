@@ -3,7 +3,7 @@ title: Sovodnje - Doberdob (rok prijav podaljšan)
 type: "post"
 date: 2025-02-13
 author: PD Postojna
-slug: sovodnje_doberdob_1
+slug: sovodnje_doberdob
 tags: ['Novice', 'Izlet', 'Mladinski odsek', 'februar 2025', '2025']
 ---
 
